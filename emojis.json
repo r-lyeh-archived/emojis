@@ -1,0 +1,5241 @@
+{
+	"+1.png": {
+		"src": "+1.png", "dst": "emojis.png",
+		"x": 0, "y": 1, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.000488281, "v1": 0.0317383,
+		"rotate": 0, "hash": 2492123892
+	},
+	"-1.png": {
+		"src": "-1.png", "dst": "emojis.png",
+		"x": 64, "y": 1, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.000488281, "v1": 0.0317383,
+		"rotate": 0, "hash": 1017645194
+	},
+	"100.png": {
+		"src": "100.png", "dst": "emojis.png",
+		"x": 128, "y": 1, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.000488281, "v1": 0.0317383,
+		"rotate": 0, "hash": 3560178633
+	},
+	"109.png": {
+		"src": "109.png", "dst": "emojis.png",
+		"x": 192, "y": 1, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.000488281, "v1": 0.0317383,
+		"rotate": 0, "hash": 1243582606
+	},
+	"1234.png": {
+		"src": "1234.png", "dst": "emojis.png",
+		"x": 256, "y": 1, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.000488281, "v1": 0.0317383,
+		"rotate": 0, "hash": 1274874712
+	},
+	"8ball.png": {
+		"src": "8ball.png", "dst": "emojis.png",
+		"x": 320, "y": 1, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.000488281, "v1": 0.0317383,
+		"rotate": 0, "hash": 2412152011
+	},
+	"a.png": {
+		"src": "a.png", "dst": "emojis.png",
+		"x": 384, "y": 1, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.000488281, "v1": 0.0317383,
+		"rotate": 0, "hash": 1957305657
+	},
+	"ab.png": {
+		"src": "ab.png", "dst": "emojis.png",
+		"x": 448, "y": 1, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.000488281, "v1": 0.0317383,
+		"rotate": 0, "hash": 1459473867
+	},
+	"abc.png": {
+		"src": "abc.png", "dst": "emojis.png",
+		"x": 512, "y": 1, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.000488281, "v1": 0.0317383,
+		"rotate": 0, "hash": 2860878698
+	},
+	"abcd.png": {
+		"src": "abcd.png", "dst": "emojis.png",
+		"x": 576, "y": 1, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.000488281, "v1": 0.0317383,
+		"rotate": 0, "hash": 3174328984
+	},
+	"accept.png": {
+		"src": "accept.png", "dst": "emojis.png",
+		"x": 640, "y": 1, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.000488281, "v1": 0.0317383,
+		"rotate": 0, "hash": 1891562204
+	},
+	"aerial_tramway.png": {
+		"src": "aerial_tramway.png", "dst": "emojis.png",
+		"x": 704, "y": 1, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.000488281, "v1": 0.0317383,
+		"rotate": 0, "hash": 854447222
+	},
+	"airplane.png": {
+		"src": "airplane.png", "dst": "emojis.png",
+		"x": 768, "y": 1, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.000488281, "v1": 0.0317383,
+		"rotate": 0, "hash": 2716314966
+	},
+	"alarm_clock.png": {
+		"src": "alarm_clock.png", "dst": "emojis.png",
+		"x": 832, "y": 1, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.000488281, "v1": 0.0317383,
+		"rotate": 0, "hash": 4119051802
+	},
+	"alien.png": {
+		"src": "alien.png", "dst": "emojis.png",
+		"x": 896, "y": 1, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.000488281, "v1": 0.0317383,
+		"rotate": 0, "hash": 3694528793
+	},
+	"ambulance.png": {
+		"src": "ambulance.png", "dst": "emojis.png",
+		"x": 960, "y": 1, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.000488281, "v1": 0.0317383,
+		"rotate": 0, "hash": 3420980216
+	},
+	"anchor.png": {
+		"src": "anchor.png", "dst": "emojis.png",
+		"x": 1024, "y": 0, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0, "v1": 0.03125,
+		"rotate": 0, "hash": 1011282497
+	},
+	"angel.png": {
+		"src": "angel.png", "dst": "emojis.png",
+		"x": 1088, "y": 0, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0, "v1": 0.03125,
+		"rotate": 0, "hash": 1293800683
+	},
+	"anger.png": {
+		"src": "anger.png", "dst": "emojis.png",
+		"x": 1152, "y": 0, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0, "v1": 0.03125,
+		"rotate": 0, "hash": 525007317
+	},
+	"angry.png": {
+		"src": "angry.png", "dst": "emojis.png",
+		"x": 1216, "y": 0, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0, "v1": 0.03125,
+		"rotate": 0, "hash": 2778540855
+	},
+	"anguished.png": {
+		"src": "anguished.png", "dst": "emojis.png",
+		"x": 1280, "y": 0, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0, "v1": 0.03125,
+		"rotate": 0, "hash": 2949410506
+	},
+	"ant.png": {
+		"src": "ant.png", "dst": "emojis.png",
+		"x": 1344, "y": 0, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0, "v1": 0.03125,
+		"rotate": 0, "hash": 3692899439
+	},
+	"apple.png": {
+		"src": "apple.png", "dst": "emojis.png",
+		"x": 1408, "y": 0, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0, "v1": 0.03125,
+		"rotate": 0, "hash": 2921623590
+	},
+	"aquarius.png": {
+		"src": "aquarius.png", "dst": "emojis.png",
+		"x": 1472, "y": 0, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0, "v1": 0.03125,
+		"rotate": 0, "hash": 1529027093
+	},
+	"aries.png": {
+		"src": "aries.png", "dst": "emojis.png",
+		"x": 1536, "y": 0, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0, "v1": 0.03125,
+		"rotate": 0, "hash": 4131351216
+	},
+	"arrow_backward.png": {
+		"src": "arrow_backward.png", "dst": "emojis.png",
+		"x": 1600, "y": 0, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0, "v1": 0.03125,
+		"rotate": 0, "hash": 3755142583
+	},
+	"arrow_double_down.png": {
+		"src": "arrow_double_down.png", "dst": "emojis.png",
+		"x": 1664, "y": 0, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0, "v1": 0.03125,
+		"rotate": 0, "hash": 1924365502
+	},
+	"arrow_double_up.png": {
+		"src": "arrow_double_up.png", "dst": "emojis.png",
+		"x": 1728, "y": 0, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0, "v1": 0.03125,
+		"rotate": 0, "hash": 734691911
+	},
+	"arrow_down.png": {
+		"src": "arrow_down.png", "dst": "emojis.png",
+		"x": 1792, "y": 0, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0, "v1": 0.03125,
+		"rotate": 0, "hash": 1668733886
+	},
+	"arrow_down_small.png": {
+		"src": "arrow_down_small.png", "dst": "emojis.png",
+		"x": 1856, "y": 0, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0, "v1": 0.03125,
+		"rotate": 0, "hash": 2317434006
+	},
+	"arrow_forward.png": {
+		"src": "arrow_forward.png", "dst": "emojis.png",
+		"x": 1920, "y": 0, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0, "v1": 0.03125,
+		"rotate": 0, "hash": 84382565
+	},
+	"arrow_heading_down.png": {
+		"src": "arrow_heading_down.png", "dst": "emojis.png",
+		"x": 1984, "y": 0, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0, "v1": 0.03125,
+		"rotate": 0, "hash": 1982897721
+	},
+	"arrow_heading_up.png": {
+		"src": "arrow_heading_up.png", "dst": "emojis.png",
+		"x": 0, "y": 65, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.0317383, "v1": 0.0629883,
+		"rotate": 0, "hash": 2617273992
+	},
+	"arrow_left.png": {
+		"src": "arrow_left.png", "dst": "emojis.png",
+		"x": 64, "y": 65, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.0317383, "v1": 0.0629883,
+		"rotate": 0, "hash": 4018931971
+	},
+	"arrow_lower_left.png": {
+		"src": "arrow_lower_left.png", "dst": "emojis.png",
+		"x": 128, "y": 65, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.0317383, "v1": 0.0629883,
+		"rotate": 0, "hash": 3481760181
+	},
+	"arrow_lower_right.png": {
+		"src": "arrow_lower_right.png", "dst": "emojis.png",
+		"x": 192, "y": 65, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.0317383, "v1": 0.0629883,
+		"rotate": 0, "hash": 1694754560
+	},
+	"arrow_right.png": {
+		"src": "arrow_right.png", "dst": "emojis.png",
+		"x": 256, "y": 65, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.0317383, "v1": 0.0629883,
+		"rotate": 0, "hash": 3766656310
+	},
+	"arrow_right_hook.png": {
+		"src": "arrow_right_hook.png", "dst": "emojis.png",
+		"x": 320, "y": 65, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.0317383, "v1": 0.0629883,
+		"rotate": 0, "hash": 456264886
+	},
+	"arrow_up.png": {
+		"src": "arrow_up.png", "dst": "emojis.png",
+		"x": 384, "y": 65, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.0317383, "v1": 0.0629883,
+		"rotate": 0, "hash": 3650160967
+	},
+	"arrow_up_down.png": {
+		"src": "arrow_up_down.png", "dst": "emojis.png",
+		"x": 448, "y": 65, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.0317383, "v1": 0.0629883,
+		"rotate": 0, "hash": 943297126
+	},
+	"arrow_up_small.png": {
+		"src": "arrow_up_small.png", "dst": "emojis.png",
+		"x": 512, "y": 65, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.0317383, "v1": 0.0629883,
+		"rotate": 0, "hash": 2658509795
+	},
+	"arrow_upper_left.png": {
+		"src": "arrow_upper_left.png", "dst": "emojis.png",
+		"x": 576, "y": 65, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.0317383, "v1": 0.0629883,
+		"rotate": 0, "hash": 3831970450
+	},
+	"arrow_upper_right.png": {
+		"src": "arrow_upper_right.png", "dst": "emojis.png",
+		"x": 640, "y": 65, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.0317383, "v1": 0.0629883,
+		"rotate": 0, "hash": 1385210857
+	},
+	"arrows_clockwise.png": {
+		"src": "arrows_clockwise.png", "dst": "emojis.png",
+		"x": 704, "y": 65, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.0317383, "v1": 0.0629883,
+		"rotate": 0, "hash": 3494999503
+	},
+	"arrows_counterclockwise.png": {
+		"src": "arrows_counterclockwise.png", "dst": "emojis.png",
+		"x": 768, "y": 65, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.0317383, "v1": 0.0629883,
+		"rotate": 0, "hash": 3247187315
+	},
+	"art.png": {
+		"src": "art.png", "dst": "emojis.png",
+		"x": 832, "y": 65, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.0317383, "v1": 0.0629883,
+		"rotate": 0, "hash": 4024501515
+	},
+	"articulated_lorry.png": {
+		"src": "articulated_lorry.png", "dst": "emojis.png",
+		"x": 896, "y": 65, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.0317383, "v1": 0.0629883,
+		"rotate": 0, "hash": 3439901105
+	},
+	"astonished.png": {
+		"src": "astonished.png", "dst": "emojis.png",
+		"x": 960, "y": 65, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.0317383, "v1": 0.0629883,
+		"rotate": 0, "hash": 74643966
+	},
+	"atm.png": {
+		"src": "atm.png", "dst": "emojis.png",
+		"x": 1024, "y": 64, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.03125, "v1": 0.0625,
+		"rotate": 0, "hash": 3214503014
+	},
+	"b.png": {
+		"src": "b.png", "dst": "emojis.png",
+		"x": 1088, "y": 64, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.03125, "v1": 0.0625,
+		"rotate": 0, "hash": 595032576
+	},
+	"baby.png": {
+		"src": "baby.png", "dst": "emojis.png",
+		"x": 1152, "y": 64, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.03125, "v1": 0.0625,
+		"rotate": 0, "hash": 3101165724
+	},
+	"baby_bottle.png": {
+		"src": "baby_bottle.png", "dst": "emojis.png",
+		"x": 1216, "y": 64, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.03125, "v1": 0.0625,
+		"rotate": 0, "hash": 3562658115
+	},
+	"baby_chick.png": {
+		"src": "baby_chick.png", "dst": "emojis.png",
+		"x": 1280, "y": 64, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.03125, "v1": 0.0625,
+		"rotate": 0, "hash": 1469310103
+	},
+	"baby_symbol.png": {
+		"src": "baby_symbol.png", "dst": "emojis.png",
+		"x": 1344, "y": 64, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.03125, "v1": 0.0625,
+		"rotate": 0, "hash": 972805523
+	},
+	"baggage_claim.png": {
+		"src": "baggage_claim.png", "dst": "emojis.png",
+		"x": 1408, "y": 64, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.03125, "v1": 0.0625,
+		"rotate": 0, "hash": 3055018587
+	},
+	"balloon.png": {
+		"src": "balloon.png", "dst": "emojis.png",
+		"x": 1472, "y": 64, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.03125, "v1": 0.0625,
+		"rotate": 0, "hash": 2345989193
+	},
+	"ballot_box_with_check.png": {
+		"src": "ballot_box_with_check.png", "dst": "emojis.png",
+		"x": 1536, "y": 64, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.03125, "v1": 0.0625,
+		"rotate": 0, "hash": 4268039488
+	},
+	"bamboo.png": {
+		"src": "bamboo.png", "dst": "emojis.png",
+		"x": 1600, "y": 64, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.03125, "v1": 0.0625,
+		"rotate": 0, "hash": 3592773572
+	},
+	"banana.png": {
+		"src": "banana.png", "dst": "emojis.png",
+		"x": 1664, "y": 64, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.03125, "v1": 0.0625,
+		"rotate": 0, "hash": 595855765
+	},
+	"bangbang.png": {
+		"src": "bangbang.png", "dst": "emojis.png",
+		"x": 1728, "y": 64, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.03125, "v1": 0.0625,
+		"rotate": 0, "hash": 1184421960
+	},
+	"bank.png": {
+		"src": "bank.png", "dst": "emojis.png",
+		"x": 1792, "y": 64, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.03125, "v1": 0.0625,
+		"rotate": 0, "hash": 1672401726
+	},
+	"bar_chart.png": {
+		"src": "bar_chart.png", "dst": "emojis.png",
+		"x": 1856, "y": 64, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.03125, "v1": 0.0625,
+		"rotate": 0, "hash": 2488161756
+	},
+	"barber.png": {
+		"src": "barber.png", "dst": "emojis.png",
+		"x": 1920, "y": 64, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.03125, "v1": 0.0625,
+		"rotate": 0, "hash": 31205446
+	},
+	"baseball.png": {
+		"src": "baseball.png", "dst": "emojis.png",
+		"x": 1984, "y": 64, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.03125, "v1": 0.0625,
+		"rotate": 0, "hash": 2337025240
+	},
+	"basketball.png": {
+		"src": "basketball.png", "dst": "emojis.png",
+		"x": 0, "y": 129, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.0629883, "v1": 0.0942383,
+		"rotate": 0, "hash": 1880253679
+	},
+	"bath.png": {
+		"src": "bath.png", "dst": "emojis.png",
+		"x": 64, "y": 129, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.0629883, "v1": 0.0942383,
+		"rotate": 0, "hash": 2239287909
+	},
+	"bathtub.png": {
+		"src": "bathtub.png", "dst": "emojis.png",
+		"x": 128, "y": 129, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.0629883, "v1": 0.0942383,
+		"rotate": 0, "hash": 957052970
+	},
+	"battery.png": {
+		"src": "battery.png", "dst": "emojis.png",
+		"x": 192, "y": 129, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.0629883, "v1": 0.0942383,
+		"rotate": 0, "hash": 3892288423
+	},
+	"bear.png": {
+		"src": "bear.png", "dst": "emojis.png",
+		"x": 256, "y": 129, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.0629883, "v1": 0.0942383,
+		"rotate": 0, "hash": 22520498
+	},
+	"beer.png": {
+		"src": "beer.png", "dst": "emojis.png",
+		"x": 320, "y": 129, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.0629883, "v1": 0.0942383,
+		"rotate": 0, "hash": 257209246
+	},
+	"beers.png": {
+		"src": "beers.png", "dst": "emojis.png",
+		"x": 384, "y": 129, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.0629883, "v1": 0.0942383,
+		"rotate": 0, "hash": 2795364057
+	},
+	"beetle.png": {
+		"src": "beetle.png", "dst": "emojis.png",
+		"x": 448, "y": 129, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.0629883, "v1": 0.0942383,
+		"rotate": 0, "hash": 824354943
+	},
+	"beginner.png": {
+		"src": "beginner.png", "dst": "emojis.png",
+		"x": 512, "y": 129, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.0629883, "v1": 0.0942383,
+		"rotate": 0, "hash": 2170257870
+	},
+	"bell.png": {
+		"src": "bell.png", "dst": "emojis.png",
+		"x": 576, "y": 129, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.0629883, "v1": 0.0942383,
+		"rotate": 0, "hash": 1807404957
+	},
+	"bento.png": {
+		"src": "bento.png", "dst": "emojis.png",
+		"x": 640, "y": 129, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.0629883, "v1": 0.0942383,
+		"rotate": 0, "hash": 412162774
+	},
+	"bicyclist.png": {
+		"src": "bicyclist.png", "dst": "emojis.png",
+		"x": 704, "y": 129, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.0629883, "v1": 0.0942383,
+		"rotate": 0, "hash": 1613177604
+	},
+	"bike.png": {
+		"src": "bike.png", "dst": "emojis.png",
+		"x": 768, "y": 129, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.0629883, "v1": 0.0942383,
+		"rotate": 0, "hash": 2287511789
+	},
+	"bikini.png": {
+		"src": "bikini.png", "dst": "emojis.png",
+		"x": 832, "y": 129, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.0629883, "v1": 0.0942383,
+		"rotate": 0, "hash": 3862453704
+	},
+	"bird.png": {
+		"src": "bird.png", "dst": "emojis.png",
+		"x": 896, "y": 129, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.0629883, "v1": 0.0942383,
+		"rotate": 0, "hash": 2825099475
+	},
+	"birthday.png": {
+		"src": "birthday.png", "dst": "emojis.png",
+		"x": 960, "y": 129, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.0629883, "v1": 0.0942383,
+		"rotate": 0, "hash": 2542493241
+	},
+	"black_circle.png": {
+		"src": "black_circle.png", "dst": "emojis.png",
+		"x": 1024, "y": 128, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.0625, "v1": 0.09375,
+		"rotate": 0, "hash": 3574095200
+	},
+	"black_joker.png": {
+		"src": "black_joker.png", "dst": "emojis.png",
+		"x": 1088, "y": 128, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.0625, "v1": 0.09375,
+		"rotate": 0, "hash": 7500517
+	},
+	"black_nib.png": {
+		"src": "black_nib.png", "dst": "emojis.png",
+		"x": 1152, "y": 128, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.0625, "v1": 0.09375,
+		"rotate": 0, "hash": 3703205883
+	},
+	"black_square.png": {
+		"src": "black_square.png", "dst": "emojis.png",
+		"x": 1216, "y": 128, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.0625, "v1": 0.09375,
+		"rotate": 0, "hash": 1100251475
+	},
+	"black_square_button.png": {
+		"src": "black_square_button.png", "dst": "emojis.png",
+		"x": 1280, "y": 128, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.0625, "v1": 0.09375,
+		"rotate": 0, "hash": 1657401934
+	},
+	"blossom.png": {
+		"src": "blossom.png", "dst": "emojis.png",
+		"x": 1344, "y": 128, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.0625, "v1": 0.09375,
+		"rotate": 0, "hash": 26487999
+	},
+	"blowfish.png": {
+		"src": "blowfish.png", "dst": "emojis.png",
+		"x": 1408, "y": 128, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.0625, "v1": 0.09375,
+		"rotate": 0, "hash": 3479030414
+	},
+	"blue_book.png": {
+		"src": "blue_book.png", "dst": "emojis.png",
+		"x": 1472, "y": 128, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.0625, "v1": 0.09375,
+		"rotate": 0, "hash": 135055610
+	},
+	"blue_car.png": {
+		"src": "blue_car.png", "dst": "emojis.png",
+		"x": 1536, "y": 128, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.0625, "v1": 0.09375,
+		"rotate": 0, "hash": 870137325
+	},
+	"blue_heart.png": {
+		"src": "blue_heart.png", "dst": "emojis.png",
+		"x": 1600, "y": 128, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.0625, "v1": 0.09375,
+		"rotate": 0, "hash": 2882226659
+	},
+	"blush.png": {
+		"src": "blush.png", "dst": "emojis.png",
+		"x": 1664, "y": 128, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.0625, "v1": 0.09375,
+		"rotate": 0, "hash": 534635788
+	},
+	"boar.png": {
+		"src": "boar.png", "dst": "emojis.png",
+		"x": 1728, "y": 128, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.0625, "v1": 0.09375,
+		"rotate": 0, "hash": 2529385320
+	},
+	"boat.png": {
+		"src": "boat.png", "dst": "emojis.png",
+		"x": 1792, "y": 128, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.0625, "v1": 0.09375,
+		"rotate": 0, "hash": 2046877754
+	},
+	"bomb.png": {
+		"src": "bomb.png", "dst": "emojis.png",
+		"x": 1856, "y": 128, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.0625, "v1": 0.09375,
+		"rotate": 0, "hash": 2226213412
+	},
+	"book.png": {
+		"src": "book.png", "dst": "emojis.png",
+		"x": 1920, "y": 128, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.0625, "v1": 0.09375,
+		"rotate": 0, "hash": 64258973
+	},
+	"bookmark.png": {
+		"src": "bookmark.png", "dst": "emojis.png",
+		"x": 1984, "y": 128, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.0625, "v1": 0.09375,
+		"rotate": 0, "hash": 791623724
+	},
+	"bookmark_tabs.png": {
+		"src": "bookmark_tabs.png", "dst": "emojis.png",
+		"x": 0, "y": 193, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.0942383, "v1": 0.125488,
+		"rotate": 0, "hash": 1511623167
+	},
+	"books.png": {
+		"src": "books.png", "dst": "emojis.png",
+		"x": 64, "y": 193, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.0942383, "v1": 0.125488,
+		"rotate": 0, "hash": 3199817892
+	},
+	"boom.png": {
+		"src": "boom.png", "dst": "emojis.png",
+		"x": 128, "y": 193, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.0942383, "v1": 0.125488,
+		"rotate": 0, "hash": 3146804011
+	},
+	"boot.png": {
+		"src": "boot.png", "dst": "emojis.png",
+		"x": 192, "y": 193, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.0942383, "v1": 0.125488,
+		"rotate": 0, "hash": 2519228496
+	},
+	"bouquet.png": {
+		"src": "bouquet.png", "dst": "emojis.png",
+		"x": 256, "y": 193, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.0942383, "v1": 0.125488,
+		"rotate": 0, "hash": 164487319
+	},
+	"bow.png": {
+		"src": "bow.png", "dst": "emojis.png",
+		"x": 320, "y": 193, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.0942383, "v1": 0.125488,
+		"rotate": 0, "hash": 2777149642
+	},
+	"bowling.png": {
+		"src": "bowling.png", "dst": "emojis.png",
+		"x": 384, "y": 193, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.0942383, "v1": 0.125488,
+		"rotate": 0, "hash": 2146460282
+	},
+	"bowtie.png": {
+		"src": "bowtie.png", "dst": "emojis.png",
+		"x": 448, "y": 193, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.0942383, "v1": 0.125488,
+		"rotate": 0, "hash": 1196034634
+	},
+	"boy.png": {
+		"src": "boy.png", "dst": "emojis.png",
+		"x": 512, "y": 193, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.0942383, "v1": 0.125488,
+		"rotate": 0, "hash": 3844429024
+	},
+	"bread.png": {
+		"src": "bread.png", "dst": "emojis.png",
+		"x": 576, "y": 193, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.0942383, "v1": 0.125488,
+		"rotate": 0, "hash": 4001557504
+	},
+	"bride_with_veil.png": {
+		"src": "bride_with_veil.png", "dst": "emojis.png",
+		"x": 640, "y": 193, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.0942383, "v1": 0.125488,
+		"rotate": 0, "hash": 3318617220
+	},
+	"bridge_at_night.png": {
+		"src": "bridge_at_night.png", "dst": "emojis.png",
+		"x": 704, "y": 193, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.0942383, "v1": 0.125488,
+		"rotate": 0, "hash": 4041332796
+	},
+	"briefcase.png": {
+		"src": "briefcase.png", "dst": "emojis.png",
+		"x": 768, "y": 193, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.0942383, "v1": 0.125488,
+		"rotate": 0, "hash": 3723607234
+	},
+	"broken_heart.png": {
+		"src": "broken_heart.png", "dst": "emojis.png",
+		"x": 832, "y": 193, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.0942383, "v1": 0.125488,
+		"rotate": 0, "hash": 192312234
+	},
+	"bug.png": {
+		"src": "bug.png", "dst": "emojis.png",
+		"x": 896, "y": 193, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.0942383, "v1": 0.125488,
+		"rotate": 0, "hash": 1637404656
+	},
+	"bulb.png": {
+		"src": "bulb.png", "dst": "emojis.png",
+		"x": 960, "y": 193, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.0942383, "v1": 0.125488,
+		"rotate": 0, "hash": 2025577347
+	},
+	"bullettrain_front.png": {
+		"src": "bullettrain_front.png", "dst": "emojis.png",
+		"x": 1024, "y": 192, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.09375, "v1": 0.125,
+		"rotate": 0, "hash": 1737894060
+	},
+	"bullettrain_side.png": {
+		"src": "bullettrain_side.png", "dst": "emojis.png",
+		"x": 1088, "y": 192, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.09375, "v1": 0.125,
+		"rotate": 0, "hash": 783842584
+	},
+	"bus.png": {
+		"src": "bus.png", "dst": "emojis.png",
+		"x": 1152, "y": 192, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.09375, "v1": 0.125,
+		"rotate": 0, "hash": 3150444684
+	},
+	"busstop.png": {
+		"src": "busstop.png", "dst": "emojis.png",
+		"x": 1216, "y": 192, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.09375, "v1": 0.125,
+		"rotate": 0, "hash": 3345157372
+	},
+	"bust_in_silhouette.png": {
+		"src": "bust_in_silhouette.png", "dst": "emojis.png",
+		"x": 1280, "y": 192, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.09375, "v1": 0.125,
+		"rotate": 0, "hash": 1228948755
+	},
+	"busts_in_silhouette.png": {
+		"src": "busts_in_silhouette.png", "dst": "emojis.png",
+		"x": 1344, "y": 192, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.09375, "v1": 0.125,
+		"rotate": 0, "hash": 2823040152
+	},
+	"cactus.png": {
+		"src": "cactus.png", "dst": "emojis.png",
+		"x": 1408, "y": 192, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.09375, "v1": 0.125,
+		"rotate": 0, "hash": 2352021535
+	},
+	"cake.png": {
+		"src": "cake.png", "dst": "emojis.png",
+		"x": 1472, "y": 192, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.09375, "v1": 0.125,
+		"rotate": 0, "hash": 3616009964
+	},
+	"calendar.png": {
+		"src": "calendar.png", "dst": "emojis.png",
+		"x": 1536, "y": 192, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.09375, "v1": 0.125,
+		"rotate": 0, "hash": 1606987398
+	},
+	"calling.png": {
+		"src": "calling.png", "dst": "emojis.png",
+		"x": 1600, "y": 192, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.09375, "v1": 0.125,
+		"rotate": 0, "hash": 3616464286
+	},
+	"camel.png": {
+		"src": "camel.png", "dst": "emojis.png",
+		"x": 1664, "y": 192, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.09375, "v1": 0.125,
+		"rotate": 0, "hash": 3357595296
+	},
+	"camera.png": {
+		"src": "camera.png", "dst": "emojis.png",
+		"x": 1728, "y": 192, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.09375, "v1": 0.125,
+		"rotate": 0, "hash": 1679711719
+	},
+	"cancer.png": {
+		"src": "cancer.png", "dst": "emojis.png",
+		"x": 1792, "y": 192, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.09375, "v1": 0.125,
+		"rotate": 0, "hash": 3930936544
+	},
+	"candy.png": {
+		"src": "candy.png", "dst": "emojis.png",
+		"x": 1856, "y": 192, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.09375, "v1": 0.125,
+		"rotate": 0, "hash": 4266263447
+	},
+	"capital_abcd.png": {
+		"src": "capital_abcd.png", "dst": "emojis.png",
+		"x": 1920, "y": 192, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.09375, "v1": 0.125,
+		"rotate": 0, "hash": 3280719445
+	},
+	"capricorn.png": {
+		"src": "capricorn.png", "dst": "emojis.png",
+		"x": 1984, "y": 192, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.09375, "v1": 0.125,
+		"rotate": 0, "hash": 1103911709
+	},
+	"car.png": {
+		"src": "car.png", "dst": "emojis.png",
+		"x": 0, "y": 257, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.125488, "v1": 0.156738,
+		"rotate": 0, "hash": 3265074260
+	},
+	"card_index.png": {
+		"src": "card_index.png", "dst": "emojis.png",
+		"x": 64, "y": 257, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.125488, "v1": 0.156738,
+		"rotate": 0, "hash": 1619057641
+	},
+	"carousel_horse.png": {
+		"src": "carousel_horse.png", "dst": "emojis.png",
+		"x": 128, "y": 257, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.125488, "v1": 0.156738,
+		"rotate": 0, "hash": 1509714164
+	},
+	"cat.png": {
+		"src": "cat.png", "dst": "emojis.png",
+		"x": 192, "y": 257, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.125488, "v1": 0.156738,
+		"rotate": 0, "hash": 3990122062
+	},
+	"cat2.png": {
+		"src": "cat2.png", "dst": "emojis.png",
+		"x": 256, "y": 257, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.125488, "v1": 0.156738,
+		"rotate": 0, "hash": 1937487798
+	},
+	"cd.png": {
+		"src": "cd.png", "dst": "emojis.png",
+		"x": 320, "y": 257, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.125488, "v1": 0.156738,
+		"rotate": 0, "hash": 1311891587
+	},
+	"chart.png": {
+		"src": "chart.png", "dst": "emojis.png",
+		"x": 384, "y": 257, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.125488, "v1": 0.156738,
+		"rotate": 0, "hash": 4290604330
+	},
+	"chart_with_downwards_trend.png": {
+		"src": "chart_with_downwards_trend.png", "dst": "emojis.png",
+		"x": 448, "y": 257, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.125488, "v1": 0.156738,
+		"rotate": 0, "hash": 3276297009
+	},
+	"chart_with_upwards_trend.png": {
+		"src": "chart_with_upwards_trend.png", "dst": "emojis.png",
+		"x": 512, "y": 257, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.125488, "v1": 0.156738,
+		"rotate": 0, "hash": 2085792246
+	},
+	"checkered_flag.png": {
+		"src": "checkered_flag.png", "dst": "emojis.png",
+		"x": 576, "y": 257, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.125488, "v1": 0.156738,
+		"rotate": 0, "hash": 4283982429
+	},
+	"cherries.png": {
+		"src": "cherries.png", "dst": "emojis.png",
+		"x": 640, "y": 257, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.125488, "v1": 0.156738,
+		"rotate": 0, "hash": 3061207961
+	},
+	"cherry_blossom.png": {
+		"src": "cherry_blossom.png", "dst": "emojis.png",
+		"x": 704, "y": 257, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.125488, "v1": 0.156738,
+		"rotate": 0, "hash": 1057213919
+	},
+	"chestnut.png": {
+		"src": "chestnut.png", "dst": "emojis.png",
+		"x": 768, "y": 257, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.125488, "v1": 0.156738,
+		"rotate": 0, "hash": 2139291932
+	},
+	"chicken.png": {
+		"src": "chicken.png", "dst": "emojis.png",
+		"x": 832, "y": 257, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.125488, "v1": 0.156738,
+		"rotate": 0, "hash": 2881115721
+	},
+	"children_crossing.png": {
+		"src": "children_crossing.png", "dst": "emojis.png",
+		"x": 896, "y": 257, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.125488, "v1": 0.156738,
+		"rotate": 0, "hash": 3009492458
+	},
+	"chocolate_bar.png": {
+		"src": "chocolate_bar.png", "dst": "emojis.png",
+		"x": 960, "y": 257, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.125488, "v1": 0.156738,
+		"rotate": 0, "hash": 759722530
+	},
+	"christmas_tree.png": {
+		"src": "christmas_tree.png", "dst": "emojis.png",
+		"x": 1024, "y": 256, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.125, "v1": 0.15625,
+		"rotate": 0, "hash": 1049620137
+	},
+	"church.png": {
+		"src": "church.png", "dst": "emojis.png",
+		"x": 1088, "y": 256, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.125, "v1": 0.15625,
+		"rotate": 0, "hash": 188748515
+	},
+	"cinema.png": {
+		"src": "cinema.png", "dst": "emojis.png",
+		"x": 1152, "y": 256, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.125, "v1": 0.15625,
+		"rotate": 0, "hash": 1655149947
+	},
+	"circus_tent.png": {
+		"src": "circus_tent.png", "dst": "emojis.png",
+		"x": 1216, "y": 256, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.125, "v1": 0.15625,
+		"rotate": 0, "hash": 2275164787
+	},
+	"city_sunrise.png": {
+		"src": "city_sunrise.png", "dst": "emojis.png",
+		"x": 1280, "y": 256, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.125, "v1": 0.15625,
+		"rotate": 0, "hash": 3370963947
+	},
+	"city_sunset.png": {
+		"src": "city_sunset.png", "dst": "emojis.png",
+		"x": 1344, "y": 256, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.125, "v1": 0.15625,
+		"rotate": 0, "hash": 1005769632
+	},
+	"cl.png": {
+		"src": "cl.png", "dst": "emojis.png",
+		"x": 1408, "y": 256, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.125, "v1": 0.15625,
+		"rotate": 0, "hash": 1140445051
+	},
+	"clap.png": {
+		"src": "clap.png", "dst": "emojis.png",
+		"x": 1472, "y": 256, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.125, "v1": 0.15625,
+		"rotate": 0, "hash": 4135426562
+	},
+	"clapper.png": {
+		"src": "clapper.png", "dst": "emojis.png",
+		"x": 1536, "y": 256, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.125, "v1": 0.15625,
+		"rotate": 0, "hash": 3858330947
+	},
+	"clipboard.png": {
+		"src": "clipboard.png", "dst": "emojis.png",
+		"x": 1600, "y": 256, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.125, "v1": 0.15625,
+		"rotate": 0, "hash": 3473012132
+	},
+	"clock1.png": {
+		"src": "clock1.png", "dst": "emojis.png",
+		"x": 1664, "y": 256, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.125, "v1": 0.15625,
+		"rotate": 0, "hash": 1570577265
+	},
+	"clock10.png": {
+		"src": "clock10.png", "dst": "emojis.png",
+		"x": 1728, "y": 256, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.125, "v1": 0.15625,
+		"rotate": 0, "hash": 4273478025
+	},
+	"clock1030.png": {
+		"src": "clock1030.png", "dst": "emojis.png",
+		"x": 1792, "y": 256, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.125, "v1": 0.15625,
+		"rotate": 0, "hash": 4260211102
+	},
+	"clock11.png": {
+		"src": "clock11.png", "dst": "emojis.png",
+		"x": 1856, "y": 256, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.125, "v1": 0.15625,
+		"rotate": 0, "hash": 3943217334
+	},
+	"clock1130.png": {
+		"src": "clock1130.png", "dst": "emojis.png",
+		"x": 1920, "y": 256, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.125, "v1": 0.15625,
+		"rotate": 0, "hash": 4380537
+	},
+	"clock12.png": {
+		"src": "clock12.png", "dst": "emojis.png",
+		"x": 1984, "y": 256, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.125, "v1": 0.15625,
+		"rotate": 0, "hash": 2859168131
+	},
+	"clock1230.png": {
+		"src": "clock1230.png", "dst": "emojis.png",
+		"x": 0, "y": 321, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.156738, "v1": 0.187988,
+		"rotate": 0, "hash": 1500491548
+	},
+	"clock130.png": {
+		"src": "clock130.png", "dst": "emojis.png",
+		"x": 64, "y": 321, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.156738, "v1": 0.187988,
+		"rotate": 0, "hash": 639855142
+	},
+	"clock2.png": {
+		"src": "clock2.png", "dst": "emojis.png",
+		"x": 128, "y": 321, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.156738, "v1": 0.187988,
+		"rotate": 0, "hash": 2364497048
+	},
+	"clock230.png": {
+		"src": "clock230.png", "dst": "emojis.png",
+		"x": 192, "y": 321, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.156738, "v1": 0.187988,
+		"rotate": 0, "hash": 694813287
+	},
+	"clock3.png": {
+		"src": "clock3.png", "dst": "emojis.png",
+		"x": 256, "y": 321, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.156738, "v1": 0.187988,
+		"rotate": 0, "hash": 2317683115
+	},
+	"clock330.png": {
+		"src": "clock330.png", "dst": "emojis.png",
+		"x": 320, "y": 321, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.156738, "v1": 0.187988,
+		"rotate": 0, "hash": 473165700
+	},
+	"clock4.png": {
+		"src": "clock4.png", "dst": "emojis.png",
+		"x": 384, "y": 321, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.156738, "v1": 0.187988,
+		"rotate": 0, "hash": 2300743978
+	},
+	"clock430.png": {
+		"src": "clock430.png", "dst": "emojis.png",
+		"x": 448, "y": 321, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.156738, "v1": 0.187988,
+		"rotate": 0, "hash": 3721056781
+	},
+	"clock5.png": {
+		"src": "clock5.png", "dst": "emojis.png",
+		"x": 512, "y": 321, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.156738, "v1": 0.187988,
+		"rotate": 0, "hash": 3530105373
+	},
+	"clock530.png": {
+		"src": "clock530.png", "dst": "emojis.png",
+		"x": 576, "y": 321, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.156738, "v1": 0.187988,
+		"rotate": 0, "hash": 1775905042
+	},
+	"clock6.png": {
+		"src": "clock6.png", "dst": "emojis.png",
+		"x": 640, "y": 321, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.156738, "v1": 0.187988,
+		"rotate": 0, "hash": 462663044
+	},
+	"clock630.png": {
+		"src": "clock630.png", "dst": "emojis.png",
+		"x": 704, "y": 321, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.156738, "v1": 0.187988,
+		"rotate": 0, "hash": 3495613923
+	},
+	"clock7.png": {
+		"src": "clock7.png", "dst": "emojis.png",
+		"x": 768, "y": 321, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.156738, "v1": 0.187988,
+		"rotate": 0, "hash": 343169815
+	},
+	"clock730.png": {
+		"src": "clock730.png", "dst": "emojis.png",
+		"x": 832, "y": 321, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.156738, "v1": 0.187988,
+		"rotate": 0, "hash": 1612073856
+	},
+	"clock8.png": {
+		"src": "clock8.png", "dst": "emojis.png",
+		"x": 896, "y": 321, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.156738, "v1": 0.187988,
+		"rotate": 0, "hash": 3557030118
+	},
+	"clock830.png": {
+		"src": "clock830.png", "dst": "emojis.png",
+		"x": 960, "y": 321, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.156738, "v1": 0.187988,
+		"rotate": 0, "hash": 2067009577
+	},
+	"clock9.png": {
+		"src": "clock9.png", "dst": "emojis.png",
+		"x": 1024, "y": 320, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.15625, "v1": 0.1875,
+		"rotate": 0, "hash": 3934673657
+	},
+	"clock930.png": {
+		"src": "clock930.png", "dst": "emojis.png",
+		"x": 1088, "y": 320, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.15625, "v1": 0.1875,
+		"rotate": 0, "hash": 3839327438
+	},
+	"closed_book.png": {
+		"src": "closed_book.png", "dst": "emojis.png",
+		"x": 1152, "y": 320, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.15625, "v1": 0.1875,
+		"rotate": 0, "hash": 3755726050
+	},
+	"closed_lock_with_key.png": {
+		"src": "closed_lock_with_key.png", "dst": "emojis.png",
+		"x": 1216, "y": 320, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.15625, "v1": 0.1875,
+		"rotate": 0, "hash": 309039387
+	},
+	"closed_umbrella.png": {
+		"src": "closed_umbrella.png", "dst": "emojis.png",
+		"x": 1280, "y": 320, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.15625, "v1": 0.1875,
+		"rotate": 0, "hash": 2412992283
+	},
+	"cloud.png": {
+		"src": "cloud.png", "dst": "emojis.png",
+		"x": 1344, "y": 320, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.15625, "v1": 0.1875,
+		"rotate": 0, "hash": 3082702263
+	},
+	"clubs.png": {
+		"src": "clubs.png", "dst": "emojis.png",
+		"x": 1408, "y": 320, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.15625, "v1": 0.1875,
+		"rotate": 0, "hash": 1437019195
+	},
+	"cn.png": {
+		"src": "cn.png", "dst": "emojis.png",
+		"x": 1472, "y": 320, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.15625, "v1": 0.1875,
+		"rotate": 0, "hash": 4285803905
+	},
+	"cocktail.png": {
+		"src": "cocktail.png", "dst": "emojis.png",
+		"x": 1536, "y": 320, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.15625, "v1": 0.1875,
+		"rotate": 0, "hash": 2522068002
+	},
+	"coffee.png": {
+		"src": "coffee.png", "dst": "emojis.png",
+		"x": 1600, "y": 320, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.15625, "v1": 0.1875,
+		"rotate": 0, "hash": 4189823636
+	},
+	"cold_sweat.png": {
+		"src": "cold_sweat.png", "dst": "emojis.png",
+		"x": 1664, "y": 320, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.15625, "v1": 0.1875,
+		"rotate": 0, "hash": 989951173
+	},
+	"collision.png": {
+		"src": "collision.png", "dst": "emojis.png",
+		"x": 1728, "y": 320, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.15625, "v1": 0.1875,
+		"rotate": 0, "hash": 351830102
+	},
+	"computer.png": {
+		"src": "computer.png", "dst": "emojis.png",
+		"x": 1792, "y": 320, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.15625, "v1": 0.1875,
+		"rotate": 0, "hash": 3386312189
+	},
+	"confetti_ball.png": {
+		"src": "confetti_ball.png", "dst": "emojis.png",
+		"x": 1856, "y": 320, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.15625, "v1": 0.1875,
+		"rotate": 0, "hash": 3459504270
+	},
+	"confounded.png": {
+		"src": "confounded.png", "dst": "emojis.png",
+		"x": 1920, "y": 320, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.15625, "v1": 0.1875,
+		"rotate": 0, "hash": 1730030993
+	},
+	"confused.png": {
+		"src": "confused.png", "dst": "emojis.png",
+		"x": 1984, "y": 320, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.15625, "v1": 0.1875,
+		"rotate": 0, "hash": 2523721095
+	},
+	"congratulations.png": {
+		"src": "congratulations.png", "dst": "emojis.png",
+		"x": 0, "y": 385, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.187988, "v1": 0.219238,
+		"rotate": 0, "hash": 2477378209
+	},
+	"construction.png": {
+		"src": "construction.png", "dst": "emojis.png",
+		"x": 64, "y": 385, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.187988, "v1": 0.219238,
+		"rotate": 0, "hash": 4228381593
+	},
+	"construction_worker.png": {
+		"src": "construction_worker.png", "dst": "emojis.png",
+		"x": 128, "y": 385, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.187988, "v1": 0.219238,
+		"rotate": 0, "hash": 910277874
+	},
+	"convenience_store.png": {
+		"src": "convenience_store.png", "dst": "emojis.png",
+		"x": 192, "y": 385, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.187988, "v1": 0.219238,
+		"rotate": 0, "hash": 3778924575
+	},
+	"cookie.png": {
+		"src": "cookie.png", "dst": "emojis.png",
+		"x": 256, "y": 385, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.187988, "v1": 0.219238,
+		"rotate": 0, "hash": 640345638
+	},
+	"cool.png": {
+		"src": "cool.png", "dst": "emojis.png",
+		"x": 320, "y": 385, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.187988, "v1": 0.219238,
+		"rotate": 0, "hash": 3241805289
+	},
+	"cop.png": {
+		"src": "cop.png", "dst": "emojis.png",
+		"x": 384, "y": 385, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.187988, "v1": 0.219238,
+		"rotate": 0, "hash": 3989863888
+	},
+	"copyright.png": {
+		"src": "copyright.png", "dst": "emojis.png",
+		"x": 448, "y": 385, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.187988, "v1": 0.219238,
+		"rotate": 0, "hash": 1531032823
+	},
+	"corn.png": {
+		"src": "corn.png", "dst": "emojis.png",
+		"x": 512, "y": 385, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.187988, "v1": 0.219238,
+		"rotate": 0, "hash": 3919448242
+	},
+	"couple.png": {
+		"src": "couple.png", "dst": "emojis.png",
+		"x": 576, "y": 385, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.187988, "v1": 0.219238,
+		"rotate": 0, "hash": 1505575688
+	},
+	"couple_with_heart.png": {
+		"src": "couple_with_heart.png", "dst": "emojis.png",
+		"x": 640, "y": 385, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.187988, "v1": 0.219238,
+		"rotate": 0, "hash": 1523805064
+	},
+	"couplekiss.png": {
+		"src": "couplekiss.png", "dst": "emojis.png",
+		"x": 704, "y": 385, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.187988, "v1": 0.219238,
+		"rotate": 0, "hash": 4071033446
+	},
+	"cow.png": {
+		"src": "cow.png", "dst": "emojis.png",
+		"x": 768, "y": 385, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.187988, "v1": 0.219238,
+		"rotate": 0, "hash": 3890222741
+	},
+	"cow2.png": {
+		"src": "cow2.png", "dst": "emojis.png",
+		"x": 832, "y": 385, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.187988, "v1": 0.219238,
+		"rotate": 0, "hash": 1679031167
+	},
+	"credit_card.png": {
+		"src": "credit_card.png", "dst": "emojis.png",
+		"x": 896, "y": 385, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.187988, "v1": 0.219238,
+		"rotate": 0, "hash": 2754201410
+	},
+	"crocodile.png": {
+		"src": "crocodile.png", "dst": "emojis.png",
+		"x": 960, "y": 385, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.187988, "v1": 0.219238,
+		"rotate": 0, "hash": 306442922
+	},
+	"crossed_flags.png": {
+		"src": "crossed_flags.png", "dst": "emojis.png",
+		"x": 1024, "y": 384, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.1875, "v1": 0.21875,
+		"rotate": 0, "hash": 694170447
+	},
+	"crown.png": {
+		"src": "crown.png", "dst": "emojis.png",
+		"x": 1088, "y": 384, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.1875, "v1": 0.21875,
+		"rotate": 0, "hash": 3413497173
+	},
+	"cry.png": {
+		"src": "cry.png", "dst": "emojis.png",
+		"x": 1152, "y": 384, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.1875, "v1": 0.21875,
+		"rotate": 0, "hash": 2822364826
+	},
+	"crying_cat_face.png": {
+		"src": "crying_cat_face.png", "dst": "emojis.png",
+		"x": 1216, "y": 384, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.1875, "v1": 0.21875,
+		"rotate": 0, "hash": 82209023
+	},
+	"crystal_ball.png": {
+		"src": "crystal_ball.png", "dst": "emojis.png",
+		"x": 1280, "y": 384, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.1875, "v1": 0.21875,
+		"rotate": 0, "hash": 442692562
+	},
+	"cupid.png": {
+		"src": "cupid.png", "dst": "emojis.png",
+		"x": 1344, "y": 384, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.1875, "v1": 0.21875,
+		"rotate": 0, "hash": 497201987
+	},
+	"curly_loop.png": {
+		"src": "curly_loop.png", "dst": "emojis.png",
+		"x": 1408, "y": 384, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.1875, "v1": 0.21875,
+		"rotate": 0, "hash": 1322074892
+	},
+	"currency_exchange.png": {
+		"src": "currency_exchange.png", "dst": "emojis.png",
+		"x": 1472, "y": 384, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.1875, "v1": 0.21875,
+		"rotate": 0, "hash": 2690127747
+	},
+	"curry.png": {
+		"src": "curry.png", "dst": "emojis.png",
+		"x": 1536, "y": 384, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.1875, "v1": 0.21875,
+		"rotate": 0, "hash": 2192086785
+	},
+	"custard.png": {
+		"src": "custard.png", "dst": "emojis.png",
+		"x": 1600, "y": 384, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.1875, "v1": 0.21875,
+		"rotate": 0, "hash": 78926838
+	},
+	"customs.png": {
+		"src": "customs.png", "dst": "emojis.png",
+		"x": 1664, "y": 384, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.1875, "v1": 0.21875,
+		"rotate": 0, "hash": 2022814702
+	},
+	"cyclone.png": {
+		"src": "cyclone.png", "dst": "emojis.png",
+		"x": 1728, "y": 384, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.1875, "v1": 0.21875,
+		"rotate": 0, "hash": 3562898143
+	},
+	"dancer.png": {
+		"src": "dancer.png", "dst": "emojis.png",
+		"x": 1792, "y": 384, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.1875, "v1": 0.21875,
+		"rotate": 0, "hash": 115209771
+	},
+	"dancers.png": {
+		"src": "dancers.png", "dst": "emojis.png",
+		"x": 1856, "y": 384, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.1875, "v1": 0.21875,
+		"rotate": 0, "hash": 869107802
+	},
+	"dango.png": {
+		"src": "dango.png", "dst": "emojis.png",
+		"x": 1920, "y": 384, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.1875, "v1": 0.21875,
+		"rotate": 0, "hash": 1836326607
+	},
+	"dart.png": {
+		"src": "dart.png", "dst": "emojis.png",
+		"x": 1984, "y": 384, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.1875, "v1": 0.21875,
+		"rotate": 0, "hash": 3484326925
+	},
+	"dash.png": {
+		"src": "dash.png", "dst": "emojis.png",
+		"x": 0, "y": 449, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.219238, "v1": 0.250488,
+		"rotate": 0, "hash": 999340400
+	},
+	"date.png": {
+		"src": "date.png", "dst": "emojis.png",
+		"x": 64, "y": 449, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.219238, "v1": 0.250488,
+		"rotate": 0, "hash": 3057746668
+	},
+	"de.png": {
+		"src": "de.png", "dst": "emojis.png",
+		"x": 128, "y": 449, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.219238, "v1": 0.250488,
+		"rotate": 0, "hash": 3937352227
+	},
+	"deciduous_tree.png": {
+		"src": "deciduous_tree.png", "dst": "emojis.png",
+		"x": 192, "y": 449, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.219238, "v1": 0.250488,
+		"rotate": 0, "hash": 3979656594
+	},
+	"department_store.png": {
+		"src": "department_store.png", "dst": "emojis.png",
+		"x": 256, "y": 449, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.219238, "v1": 0.250488,
+		"rotate": 0, "hash": 470274492
+	},
+	"diamond_shape_with_a_dot_inside.png": {
+		"src": "diamond_shape_with_a_dot_inside.png", "dst": "emojis.png",
+		"x": 320, "y": 449, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.219238, "v1": 0.250488,
+		"rotate": 0, "hash": 978870174
+	},
+	"diamonds.png": {
+		"src": "diamonds.png", "dst": "emojis.png",
+		"x": 384, "y": 449, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.219238, "v1": 0.250488,
+		"rotate": 0, "hash": 1339394281
+	},
+	"disappointed.png": {
+		"src": "disappointed.png", "dst": "emojis.png",
+		"x": 448, "y": 449, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.219238, "v1": 0.250488,
+		"rotate": 0, "hash": 4251429548
+	},
+	"disappointed_relieved.png": {
+		"src": "disappointed_relieved.png", "dst": "emojis.png",
+		"x": 512, "y": 449, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.219238, "v1": 0.250488,
+		"rotate": 0, "hash": 453788203
+	},
+	"dizzy.png": {
+		"src": "dizzy.png", "dst": "emojis.png",
+		"x": 576, "y": 449, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.219238, "v1": 0.250488,
+		"rotate": 0, "hash": 3993922276
+	},
+	"dizzy_face.png": {
+		"src": "dizzy_face.png", "dst": "emojis.png",
+		"x": 640, "y": 449, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.219238, "v1": 0.250488,
+		"rotate": 0, "hash": 2445298146
+	},
+	"do_not_litter.png": {
+		"src": "do_not_litter.png", "dst": "emojis.png",
+		"x": 704, "y": 449, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.219238, "v1": 0.250488,
+		"rotate": 0, "hash": 14560410
+	},
+	"dog.png": {
+		"src": "dog.png", "dst": "emojis.png",
+		"x": 768, "y": 449, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.219238, "v1": 0.250488,
+		"rotate": 0, "hash": 1810401980
+	},
+	"dog2.png": {
+		"src": "dog2.png", "dst": "emojis.png",
+		"x": 832, "y": 449, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.219238, "v1": 0.250488,
+		"rotate": 0, "hash": 1612205908
+	},
+	"dollar.png": {
+		"src": "dollar.png", "dst": "emojis.png",
+		"x": 896, "y": 449, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.219238, "v1": 0.250488,
+		"rotate": 0, "hash": 1701030566
+	},
+	"dolls.png": {
+		"src": "dolls.png", "dst": "emojis.png",
+		"x": 960, "y": 449, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.219238, "v1": 0.250488,
+		"rotate": 0, "hash": 587445288
+	},
+	"dolphin.png": {
+		"src": "dolphin.png", "dst": "emojis.png",
+		"x": 1024, "y": 448, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.21875, "v1": 0.25,
+		"rotate": 0, "hash": 3978652422
+	},
+	"door.png": {
+		"src": "door.png", "dst": "emojis.png",
+		"x": 1088, "y": 448, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.21875, "v1": 0.25,
+		"rotate": 0, "hash": 1890237404
+	},
+	"doughnut.png": {
+		"src": "doughnut.png", "dst": "emojis.png",
+		"x": 1152, "y": 448, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.21875, "v1": 0.25,
+		"rotate": 0, "hash": 988238846
+	},
+	"dragon.png": {
+		"src": "dragon.png", "dst": "emojis.png",
+		"x": 1216, "y": 448, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.21875, "v1": 0.25,
+		"rotate": 0, "hash": 640893399
+	},
+	"dragon_face.png": {
+		"src": "dragon_face.png", "dst": "emojis.png",
+		"x": 1280, "y": 448, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.21875, "v1": 0.25,
+		"rotate": 0, "hash": 2118790507
+	},
+	"dress.png": {
+		"src": "dress.png", "dst": "emojis.png",
+		"x": 1344, "y": 448, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.21875, "v1": 0.25,
+		"rotate": 0, "hash": 2535738677
+	},
+	"dromedary_camel.png": {
+		"src": "dromedary_camel.png", "dst": "emojis.png",
+		"x": 1408, "y": 448, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.21875, "v1": 0.25,
+		"rotate": 0, "hash": 3098105160
+	},
+	"droplet.png": {
+		"src": "droplet.png", "dst": "emojis.png",
+		"x": 1472, "y": 448, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.21875, "v1": 0.25,
+		"rotate": 0, "hash": 2957836676
+	},
+	"dvd.png": {
+		"src": "dvd.png", "dst": "emojis.png",
+		"x": 1536, "y": 448, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.21875, "v1": 0.25,
+		"rotate": 0, "hash": 3423245012
+	},
+	"e-mail.png": {
+		"src": "e-mail.png", "dst": "emojis.png",
+		"x": 1600, "y": 448, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.21875, "v1": 0.25,
+		"rotate": 0, "hash": 2477570517
+	},
+	"ear.png": {
+		"src": "ear.png", "dst": "emojis.png",
+		"x": 1664, "y": 448, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.21875, "v1": 0.25,
+		"rotate": 0, "hash": 2289740946
+	},
+	"ear_of_rice.png": {
+		"src": "ear_of_rice.png", "dst": "emojis.png",
+		"x": 1728, "y": 448, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.21875, "v1": 0.25,
+		"rotate": 0, "hash": 317309818
+	},
+	"earth_africa.png": {
+		"src": "earth_africa.png", "dst": "emojis.png",
+		"x": 1792, "y": 448, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.21875, "v1": 0.25,
+		"rotate": 0, "hash": 2486328735
+	},
+	"earth_americas.png": {
+		"src": "earth_americas.png", "dst": "emojis.png",
+		"x": 1856, "y": 448, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.21875, "v1": 0.25,
+		"rotate": 0, "hash": 2219851384
+	},
+	"earth_asia.png": {
+		"src": "earth_asia.png", "dst": "emojis.png",
+		"x": 1920, "y": 448, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.21875, "v1": 0.25,
+		"rotate": 0, "hash": 2459251167
+	},
+	"egg.png": {
+		"src": "egg.png", "dst": "emojis.png",
+		"x": 1984, "y": 448, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.21875, "v1": 0.25,
+		"rotate": 0, "hash": 2444089087
+	},
+	"eggplant.png": {
+		"src": "eggplant.png", "dst": "emojis.png",
+		"x": 0, "y": 513, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.250488, "v1": 0.281738,
+		"rotate": 0, "hash": 736586138
+	},
+	"eight.png": {
+		"src": "eight.png", "dst": "emojis.png",
+		"x": 64, "y": 513, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.250488, "v1": 0.281738,
+		"rotate": 0, "hash": 3113978549
+	},
+	"eight_pointed_black_star.png": {
+		"src": "eight_pointed_black_star.png", "dst": "emojis.png",
+		"x": 128, "y": 513, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.250488, "v1": 0.281738,
+		"rotate": 0, "hash": 3656269512
+	},
+	"eight_spoked_asterisk.png": {
+		"src": "eight_spoked_asterisk.png", "dst": "emojis.png",
+		"x": 192, "y": 513, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.250488, "v1": 0.281738,
+		"rotate": 0, "hash": 4107352671
+	},
+	"eightball.png": {
+		"src": "eightball.png", "dst": "emojis.png",
+		"x": 256, "y": 513, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.250488, "v1": 0.281738,
+		"rotate": 0, "hash": 3600846512
+	},
+	"electric_plug.png": {
+		"src": "electric_plug.png", "dst": "emojis.png",
+		"x": 320, "y": 513, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.250488, "v1": 0.281738,
+		"rotate": 0, "hash": 3864394538
+	},
+	"elephant.png": {
+		"src": "elephant.png", "dst": "emojis.png",
+		"x": 384, "y": 513, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.250488, "v1": 0.281738,
+		"rotate": 0, "hash": 3615148145
+	},
+	"email.png": {
+		"src": "email.png", "dst": "emojis.png",
+		"x": 448, "y": 513, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.250488, "v1": 0.281738,
+		"rotate": 0, "hash": 4269347214
+	},
+	"end.png": {
+		"src": "end.png", "dst": "emojis.png",
+		"x": 512, "y": 513, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.250488, "v1": 0.281738,
+		"rotate": 0, "hash": 3838209323
+	},
+	"envelope.png": {
+		"src": "envelope.png", "dst": "emojis.png",
+		"x": 576, "y": 513, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.250488, "v1": 0.281738,
+		"rotate": 0, "hash": 3468639696
+	},
+	"es.png": {
+		"src": "es.png", "dst": "emojis.png",
+		"x": 640, "y": 513, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.250488, "v1": 0.281738,
+		"rotate": 0, "hash": 1046381980
+	},
+	"euro.png": {
+		"src": "euro.png", "dst": "emojis.png",
+		"x": 704, "y": 513, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.250488, "v1": 0.281738,
+		"rotate": 0, "hash": 188272093
+	},
+	"european_castle.png": {
+		"src": "european_castle.png", "dst": "emojis.png",
+		"x": 768, "y": 513, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.250488, "v1": 0.281738,
+		"rotate": 0, "hash": 1930611688
+	},
+	"european_post_office.png": {
+		"src": "european_post_office.png", "dst": "emojis.png",
+		"x": 832, "y": 513, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.250488, "v1": 0.281738,
+		"rotate": 0, "hash": 2093127697
+	},
+	"evergreen_tree.png": {
+		"src": "evergreen_tree.png", "dst": "emojis.png",
+		"x": 896, "y": 513, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.250488, "v1": 0.281738,
+		"rotate": 0, "hash": 1724391124
+	},
+	"exclamation.png": {
+		"src": "exclamation.png", "dst": "emojis.png",
+		"x": 960, "y": 513, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.250488, "v1": 0.281738,
+		"rotate": 0, "hash": 260740719
+	},
+	"expressionless.png": {
+		"src": "expressionless.png", "dst": "emojis.png",
+		"x": 1024, "y": 512, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.25, "v1": 0.28125,
+		"rotate": 0, "hash": 2221016519
+	},
+	"eyeglasses.png": {
+		"src": "eyeglasses.png", "dst": "emojis.png",
+		"x": 1088, "y": 512, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.25, "v1": 0.28125,
+		"rotate": 0, "hash": 3320375183
+	},
+	"eyes.png": {
+		"src": "eyes.png", "dst": "emojis.png",
+		"x": 1152, "y": 512, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.25, "v1": 0.28125,
+		"rotate": 0, "hash": 2590616362
+	},
+	"facepunch.png": {
+		"src": "facepunch.png", "dst": "emojis.png",
+		"x": 1216, "y": 512, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.25, "v1": 0.28125,
+		"rotate": 0, "hash": 1016825577
+	},
+	"factory.png": {
+		"src": "factory.png", "dst": "emojis.png",
+		"x": 1280, "y": 512, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.25, "v1": 0.28125,
+		"rotate": 0, "hash": 2135558792
+	},
+	"fallen_leaf.png": {
+		"src": "fallen_leaf.png", "dst": "emojis.png",
+		"x": 1344, "y": 512, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.25, "v1": 0.28125,
+		"rotate": 0, "hash": 1105884857
+	},
+	"family.png": {
+		"src": "family.png", "dst": "emojis.png",
+		"x": 1408, "y": 512, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.25, "v1": 0.28125,
+		"rotate": 0, "hash": 2335824092
+	},
+	"fast_forward.png": {
+		"src": "fast_forward.png", "dst": "emojis.png",
+		"x": 1472, "y": 512, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.25, "v1": 0.28125,
+		"rotate": 0, "hash": 4225679800
+	},
+	"fax.png": {
+		"src": "fax.png", "dst": "emojis.png",
+		"x": 1536, "y": 512, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.25, "v1": 0.28125,
+		"rotate": 0, "hash": 3396921077
+	},
+	"fearful.png": {
+		"src": "fearful.png", "dst": "emojis.png",
+		"x": 1600, "y": 512, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.25, "v1": 0.28125,
+		"rotate": 0, "hash": 2197188315
+	},
+	"feelsgood.png": {
+		"src": "feelsgood.png", "dst": "emojis.png",
+		"x": 1664, "y": 512, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.25, "v1": 0.28125,
+		"rotate": 0, "hash": 3150179922
+	},
+	"feet.png": {
+		"src": "feet.png", "dst": "emojis.png",
+		"x": 1728, "y": 512, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.25, "v1": 0.28125,
+		"rotate": 0, "hash": 3545863632
+	},
+	"ferris_wheel.png": {
+		"src": "ferris_wheel.png", "dst": "emojis.png",
+		"x": 1792, "y": 512, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.25, "v1": 0.28125,
+		"rotate": 0, "hash": 3339316057
+	},
+	"file_folder.png": {
+		"src": "file_folder.png", "dst": "emojis.png",
+		"x": 1856, "y": 512, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.25, "v1": 0.28125,
+		"rotate": 0, "hash": 2571222949
+	},
+	"finnadie.png": {
+		"src": "finnadie.png", "dst": "emojis.png",
+		"x": 1920, "y": 512, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.25, "v1": 0.28125,
+		"rotate": 0, "hash": 2615837110
+	},
+	"fire.png": {
+		"src": "fire.png", "dst": "emojis.png",
+		"x": 1984, "y": 512, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.25, "v1": 0.28125,
+		"rotate": 0, "hash": 4167230828
+	},
+	"fire_engine.png": {
+		"src": "fire_engine.png", "dst": "emojis.png",
+		"x": 0, "y": 577, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.281738, "v1": 0.312988,
+		"rotate": 0, "hash": 751259757
+	},
+	"fireworks.png": {
+		"src": "fireworks.png", "dst": "emojis.png",
+		"x": 64, "y": 577, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.281738, "v1": 0.312988,
+		"rotate": 0, "hash": 3015588128
+	},
+	"first_quarter_moon.png": {
+		"src": "first_quarter_moon.png", "dst": "emojis.png",
+		"x": 128, "y": 577, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.281738, "v1": 0.312988,
+		"rotate": 0, "hash": 4156815071
+	},
+	"first_quarter_moon_with_face.png": {
+		"src": "first_quarter_moon_with_face.png", "dst": "emojis.png",
+		"x": 192, "y": 577, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.281738, "v1": 0.312988,
+		"rotate": 0, "hash": 2871980384
+	},
+	"fish.png": {
+		"src": "fish.png", "dst": "emojis.png",
+		"x": 256, "y": 577, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.281738, "v1": 0.312988,
+		"rotate": 0, "hash": 1068962146
+	},
+	"fish_cake.png": {
+		"src": "fish_cake.png", "dst": "emojis.png",
+		"x": 320, "y": 577, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.281738, "v1": 0.312988,
+		"rotate": 0, "hash": 2177710197
+	},
+	"fishing_pole_and_fish.png": {
+		"src": "fishing_pole_and_fish.png", "dst": "emojis.png",
+		"x": 384, "y": 577, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.281738, "v1": 0.312988,
+		"rotate": 0, "hash": 638835520
+	},
+	"fist.png": {
+		"src": "fist.png", "dst": "emojis.png",
+		"x": 448, "y": 577, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.281738, "v1": 0.312988,
+		"rotate": 0, "hash": 1477963710
+	},
+	"five.png": {
+		"src": "five.png", "dst": "emojis.png",
+		"x": 512, "y": 577, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.281738, "v1": 0.312988,
+		"rotate": 0, "hash": 4151884432
+	},
+	"flags.png": {
+		"src": "flags.png", "dst": "emojis.png",
+		"x": 576, "y": 577, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.281738, "v1": 0.312988,
+		"rotate": 0, "hash": 396983865
+	},
+	"flashlight.png": {
+		"src": "flashlight.png", "dst": "emojis.png",
+		"x": 640, "y": 577, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.281738, "v1": 0.312988,
+		"rotate": 0, "hash": 1709017842
+	},
+	"floppy_disk.png": {
+		"src": "floppy_disk.png", "dst": "emojis.png",
+		"x": 704, "y": 577, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.281738, "v1": 0.312988,
+		"rotate": 0, "hash": 1849419476
+	},
+	"flower_playing_cards.png": {
+		"src": "flower_playing_cards.png", "dst": "emojis.png",
+		"x": 768, "y": 577, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.281738, "v1": 0.312988,
+		"rotate": 0, "hash": 3174497870
+	},
+	"flushed.png": {
+		"src": "flushed.png", "dst": "emojis.png",
+		"x": 832, "y": 577, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.281738, "v1": 0.312988,
+		"rotate": 0, "hash": 822088913
+	},
+	"foggy.png": {
+		"src": "foggy.png", "dst": "emojis.png",
+		"x": 896, "y": 577, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.281738, "v1": 0.312988,
+		"rotate": 0, "hash": 1313809250
+	},
+	"football.png": {
+		"src": "football.png", "dst": "emojis.png",
+		"x": 960, "y": 577, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.281738, "v1": 0.312988,
+		"rotate": 0, "hash": 2605344349
+	},
+	"fork_and_knife.png": {
+		"src": "fork_and_knife.png", "dst": "emojis.png",
+		"x": 1024, "y": 576, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.28125, "v1": 0.3125,
+		"rotate": 0, "hash": 56442808
+	},
+	"fountain.png": {
+		"src": "fountain.png", "dst": "emojis.png",
+		"x": 1088, "y": 576, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.28125, "v1": 0.3125,
+		"rotate": 0, "hash": 1229820528
+	},
+	"four.png": {
+		"src": "four.png", "dst": "emojis.png",
+		"x": 1152, "y": 576, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.28125, "v1": 0.3125,
+		"rotate": 0, "hash": 1715727680
+	},
+	"four_leaf_clover.png": {
+		"src": "four_leaf_clover.png", "dst": "emojis.png",
+		"x": 1216, "y": 576, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.28125, "v1": 0.3125,
+		"rotate": 0, "hash": 4280112307
+	},
+	"fr.png": {
+		"src": "fr.png", "dst": "emojis.png",
+		"x": 1280, "y": 576, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.28125, "v1": 0.3125,
+		"rotate": 0, "hash": 1814681348
+	},
+	"free.png": {
+		"src": "free.png", "dst": "emojis.png",
+		"x": 1344, "y": 576, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.28125, "v1": 0.3125,
+		"rotate": 0, "hash": 2482224154
+	},
+	"fried_shrimp.png": {
+		"src": "fried_shrimp.png", "dst": "emojis.png",
+		"x": 1408, "y": 576, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.28125, "v1": 0.3125,
+		"rotate": 0, "hash": 2073677168
+	},
+	"fries.png": {
+		"src": "fries.png", "dst": "emojis.png",
+		"x": 1472, "y": 576, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.28125, "v1": 0.3125,
+		"rotate": 0, "hash": 3800310073
+	},
+	"frog.png": {
+		"src": "frog.png", "dst": "emojis.png",
+		"x": 1536, "y": 576, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.28125, "v1": 0.3125,
+		"rotate": 0, "hash": 907238574
+	},
+	"frowning.png": {
+		"src": "frowning.png", "dst": "emojis.png",
+		"x": 1600, "y": 576, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.28125, "v1": 0.3125,
+		"rotate": 0, "hash": 781128280
+	},
+	"fuelpump.png": {
+		"src": "fuelpump.png", "dst": "emojis.png",
+		"x": 1664, "y": 576, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.28125, "v1": 0.3125,
+		"rotate": 0, "hash": 1972824866
+	},
+	"full_moon.png": {
+		"src": "full_moon.png", "dst": "emojis.png",
+		"x": 1728, "y": 576, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.28125, "v1": 0.3125,
+		"rotate": 0, "hash": 2882382081
+	},
+	"full_moon_with_face.png": {
+		"src": "full_moon_with_face.png", "dst": "emojis.png",
+		"x": 1792, "y": 576, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.28125, "v1": 0.3125,
+		"rotate": 0, "hash": 2072332478
+	},
+	"game_die.png": {
+		"src": "game_die.png", "dst": "emojis.png",
+		"x": 1856, "y": 576, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.28125, "v1": 0.3125,
+		"rotate": 0, "hash": 3332608527
+	},
+	"gb.png": {
+		"src": "gb.png", "dst": "emojis.png",
+		"x": 1920, "y": 576, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.28125, "v1": 0.3125,
+		"rotate": 0, "hash": 2100355065
+	},
+	"gem.png": {
+		"src": "gem.png", "dst": "emojis.png",
+		"x": 1984, "y": 576, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.28125, "v1": 0.3125,
+		"rotate": 0, "hash": 2358701321
+	},
+	"gemini.png": {
+		"src": "gemini.png", "dst": "emojis.png",
+		"x": 0, "y": 641, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.312988, "v1": 0.344238,
+		"rotate": 0, "hash": 938077351
+	},
+	"ghost.png": {
+		"src": "ghost.png", "dst": "emojis.png",
+		"x": 64, "y": 641, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.312988, "v1": 0.344238,
+		"rotate": 0, "hash": 359478805
+	},
+	"gift.png": {
+		"src": "gift.png", "dst": "emojis.png",
+		"x": 128, "y": 641, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.312988, "v1": 0.344238,
+		"rotate": 0, "hash": 797183286
+	},
+	"gift_heart.png": {
+		"src": "gift_heart.png", "dst": "emojis.png",
+		"x": 192, "y": 641, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.312988, "v1": 0.344238,
+		"rotate": 0, "hash": 2139905369
+	},
+	"girl.png": {
+		"src": "girl.png", "dst": "emojis.png",
+		"x": 256, "y": 641, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.312988, "v1": 0.344238,
+		"rotate": 0, "hash": 1226835746
+	},
+	"globe_with_meridians.png": {
+		"src": "globe_with_meridians.png", "dst": "emojis.png",
+		"x": 320, "y": 641, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.312988, "v1": 0.344238,
+		"rotate": 0, "hash": 44844817
+	},
+	"goat.png": {
+		"src": "goat.png", "dst": "emojis.png",
+		"x": 384, "y": 641, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.312988, "v1": 0.344238,
+		"rotate": 0, "hash": 2503537431
+	},
+	"goberserk.png": {
+		"src": "goberserk.png", "dst": "emojis.png",
+		"x": 448, "y": 641, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.312988, "v1": 0.344238,
+		"rotate": 0, "hash": 1053181730
+	},
+	"godmode.png": {
+		"src": "godmode.png", "dst": "emojis.png",
+		"x": 512, "y": 641, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.312988, "v1": 0.344238,
+		"rotate": 0, "hash": 2538625387
+	},
+	"golf.png": {
+		"src": "golf.png", "dst": "emojis.png",
+		"x": 576, "y": 641, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.312988, "v1": 0.344238,
+		"rotate": 0, "hash": 2731114956
+	},
+	"grapes.png": {
+		"src": "grapes.png", "dst": "emojis.png",
+		"x": 640, "y": 641, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.312988, "v1": 0.344238,
+		"rotate": 0, "hash": 1877796268
+	},
+	"green_apple.png": {
+		"src": "green_apple.png", "dst": "emojis.png",
+		"x": 704, "y": 641, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.312988, "v1": 0.344238,
+		"rotate": 0, "hash": 1624282090
+	},
+	"green_book.png": {
+		"src": "green_book.png", "dst": "emojis.png",
+		"x": 768, "y": 641, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.312988, "v1": 0.344238,
+		"rotate": 0, "hash": 39093801
+	},
+	"green_heart.png": {
+		"src": "green_heart.png", "dst": "emojis.png",
+		"x": 832, "y": 641, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.312988, "v1": 0.344238,
+		"rotate": 0, "hash": 2854416694
+	},
+	"grey_exclamation.png": {
+		"src": "grey_exclamation.png", "dst": "emojis.png",
+		"x": 896, "y": 641, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.312988, "v1": 0.344238,
+		"rotate": 0, "hash": 2442296737
+	},
+	"grey_question.png": {
+		"src": "grey_question.png", "dst": "emojis.png",
+		"x": 960, "y": 641, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.312988, "v1": 0.344238,
+		"rotate": 0, "hash": 3135438790
+	},
+	"grimacing.png": {
+		"src": "grimacing.png", "dst": "emojis.png",
+		"x": 1024, "y": 640, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.3125, "v1": 0.34375,
+		"rotate": 0, "hash": 2419893991
+	},
+	"grin.png": {
+		"src": "grin.png", "dst": "emojis.png",
+		"x": 1088, "y": 640, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.3125, "v1": 0.34375,
+		"rotate": 0, "hash": 2293877042
+	},
+	"grinning.png": {
+		"src": "grinning.png", "dst": "emojis.png",
+		"x": 1152, "y": 640, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.3125, "v1": 0.34375,
+		"rotate": 0, "hash": 3820028164
+	},
+	"guardsman.png": {
+		"src": "guardsman.png", "dst": "emojis.png",
+		"x": 1216, "y": 640, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.3125, "v1": 0.34375,
+		"rotate": 0, "hash": 864932908
+	},
+	"guitar.png": {
+		"src": "guitar.png", "dst": "emojis.png",
+		"x": 1280, "y": 640, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.3125, "v1": 0.34375,
+		"rotate": 0, "hash": 3290213334
+	},
+	"gun.png": {
+		"src": "gun.png", "dst": "emojis.png",
+		"x": 1344, "y": 640, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.3125, "v1": 0.34375,
+		"rotate": 0, "hash": 3840980672
+	},
+	"haircut.png": {
+		"src": "haircut.png", "dst": "emojis.png",
+		"x": 1408, "y": 640, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.3125, "v1": 0.34375,
+		"rotate": 0, "hash": 2314723766
+	},
+	"hamburger.png": {
+		"src": "hamburger.png", "dst": "emojis.png",
+		"x": 1472, "y": 640, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.3125, "v1": 0.34375,
+		"rotate": 0, "hash": 2264368301
+	},
+	"hammer.png": {
+		"src": "hammer.png", "dst": "emojis.png",
+		"x": 1536, "y": 640, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.3125, "v1": 0.34375,
+		"rotate": 0, "hash": 3740829838
+	},
+	"hamster.png": {
+		"src": "hamster.png", "dst": "emojis.png",
+		"x": 1600, "y": 640, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.3125, "v1": 0.34375,
+		"rotate": 0, "hash": 2597054664
+	},
+	"hand.png": {
+		"src": "hand.png", "dst": "emojis.png",
+		"x": 1664, "y": 640, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.3125, "v1": 0.34375,
+		"rotate": 0, "hash": 823358917
+	},
+	"handbag.png": {
+		"src": "handbag.png", "dst": "emojis.png",
+		"x": 1728, "y": 640, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.3125, "v1": 0.34375,
+		"rotate": 0, "hash": 3595045119
+	},
+	"hankey.png": {
+		"src": "hankey.png", "dst": "emojis.png",
+		"x": 1792, "y": 640, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.3125, "v1": 0.34375,
+		"rotate": 0, "hash": 507204578
+	},
+	"hash.png": {
+		"src": "hash.png", "dst": "emojis.png",
+		"x": 1856, "y": 640, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.3125, "v1": 0.34375,
+		"rotate": 0, "hash": 2830392804
+	},
+	"hatched_chick.png": {
+		"src": "hatched_chick.png", "dst": "emojis.png",
+		"x": 1920, "y": 640, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.3125, "v1": 0.34375,
+		"rotate": 0, "hash": 4232376218
+	},
+	"hatching_chick.png": {
+		"src": "hatching_chick.png", "dst": "emojis.png",
+		"x": 1984, "y": 640, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.3125, "v1": 0.34375,
+		"rotate": 0, "hash": 37541009
+	},
+	"headphones.png": {
+		"src": "headphones.png", "dst": "emojis.png",
+		"x": 0, "y": 705, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.344238, "v1": 0.375488,
+		"rotate": 0, "hash": 3781185503
+	},
+	"hear_no_evil.png": {
+		"src": "hear_no_evil.png", "dst": "emojis.png",
+		"x": 64, "y": 705, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.344238, "v1": 0.375488,
+		"rotate": 0, "hash": 2652662261
+	},
+	"heart.png": {
+		"src": "heart.png", "dst": "emojis.png",
+		"x": 128, "y": 705, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.344238, "v1": 0.375488,
+		"rotate": 0, "hash": 2667640290
+	},
+	"heart_decoration.png": {
+		"src": "heart_decoration.png", "dst": "emojis.png",
+		"x": 192, "y": 705, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.344238, "v1": 0.375488,
+		"rotate": 0, "hash": 382176515
+	},
+	"heart_eyes.png": {
+		"src": "heart_eyes.png", "dst": "emojis.png",
+		"x": 256, "y": 705, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.344238, "v1": 0.375488,
+		"rotate": 0, "hash": 66975903
+	},
+	"heart_eyes_cat.png": {
+		"src": "heart_eyes_cat.png", "dst": "emojis.png",
+		"x": 320, "y": 705, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.344238, "v1": 0.375488,
+		"rotate": 0, "hash": 743085736
+	},
+	"heartbeat.png": {
+		"src": "heartbeat.png", "dst": "emojis.png",
+		"x": 384, "y": 705, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.344238, "v1": 0.375488,
+		"rotate": 0, "hash": 2123612350
+	},
+	"heartpulse.png": {
+		"src": "heartpulse.png", "dst": "emojis.png",
+		"x": 448, "y": 705, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.344238, "v1": 0.375488,
+		"rotate": 0, "hash": 1610199033
+	},
+	"hearts.png": {
+		"src": "hearts.png", "dst": "emojis.png",
+		"x": 512, "y": 705, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.344238, "v1": 0.375488,
+		"rotate": 0, "hash": 1513354869
+	},
+	"heavy_check_mark.png": {
+		"src": "heavy_check_mark.png", "dst": "emojis.png",
+		"x": 576, "y": 705, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.344238, "v1": 0.375488,
+		"rotate": 0, "hash": 1663784084
+	},
+	"heavy_division_sign.png": {
+		"src": "heavy_division_sign.png", "dst": "emojis.png",
+		"x": 640, "y": 705, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.344238, "v1": 0.375488,
+		"rotate": 0, "hash": 3265544983
+	},
+	"heavy_dollar_sign.png": {
+		"src": "heavy_dollar_sign.png", "dst": "emojis.png",
+		"x": 704, "y": 705, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.344238, "v1": 0.375488,
+		"rotate": 0, "hash": 1894037884
+	},
+	"heavy_exclamation_mark.png": {
+		"src": "heavy_exclamation_mark.png", "dst": "emojis.png",
+		"x": 768, "y": 705, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.344238, "v1": 0.375488,
+		"rotate": 0, "hash": 1271772207
+	},
+	"heavy_minus_sign.png": {
+		"src": "heavy_minus_sign.png", "dst": "emojis.png",
+		"x": 832, "y": 705, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.344238, "v1": 0.375488,
+		"rotate": 0, "hash": 3661830044
+	},
+	"heavy_multiplication_x.png": {
+		"src": "heavy_multiplication_x.png", "dst": "emojis.png",
+		"x": 896, "y": 705, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.344238, "v1": 0.375488,
+		"rotate": 0, "hash": 2929206345
+	},
+	"heavy_plus_sign.png": {
+		"src": "heavy_plus_sign.png", "dst": "emojis.png",
+		"x": 960, "y": 705, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.344238, "v1": 0.375488,
+		"rotate": 0, "hash": 4221010498
+	},
+	"helicopter.png": {
+		"src": "helicopter.png", "dst": "emojis.png",
+		"x": 1024, "y": 704, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.34375, "v1": 0.375,
+		"rotate": 0, "hash": 860121653
+	},
+	"herb.png": {
+		"src": "herb.png", "dst": "emojis.png",
+		"x": 1088, "y": 704, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.34375, "v1": 0.375,
+		"rotate": 0, "hash": 2353718571
+	},
+	"hibiscus.png": {
+		"src": "hibiscus.png", "dst": "emojis.png",
+		"x": 1152, "y": 704, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.34375, "v1": 0.375,
+		"rotate": 0, "hash": 1694566704
+	},
+	"high_brightness.png": {
+		"src": "high_brightness.png", "dst": "emojis.png",
+		"x": 1216, "y": 704, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.34375, "v1": 0.375,
+		"rotate": 0, "hash": 3203114504
+	},
+	"high_heel.png": {
+		"src": "high_heel.png", "dst": "emojis.png",
+		"x": 1280, "y": 704, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.34375, "v1": 0.375,
+		"rotate": 0, "hash": 3783913497
+	},
+	"hocho.png": {
+		"src": "hocho.png", "dst": "emojis.png",
+		"x": 1344, "y": 704, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.34375, "v1": 0.375,
+		"rotate": 0, "hash": 4117760297
+	},
+	"honey_pot.png": {
+		"src": "honey_pot.png", "dst": "emojis.png",
+		"x": 1408, "y": 704, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.34375, "v1": 0.375,
+		"rotate": 0, "hash": 1647090773
+	},
+	"honeybee.png": {
+		"src": "honeybee.png", "dst": "emojis.png",
+		"x": 1472, "y": 704, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.34375, "v1": 0.375,
+		"rotate": 0, "hash": 3036628021
+	},
+	"horse.png": {
+		"src": "horse.png", "dst": "emojis.png",
+		"x": 1536, "y": 704, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.34375, "v1": 0.375,
+		"rotate": 0, "hash": 1643163487
+	},
+	"horse_racing.png": {
+		"src": "horse_racing.png", "dst": "emojis.png",
+		"x": 1600, "y": 704, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.34375, "v1": 0.375,
+		"rotate": 0, "hash": 3881362340
+	},
+	"hospital.png": {
+		"src": "hospital.png", "dst": "emojis.png",
+		"x": 1664, "y": 704, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.34375, "v1": 0.375,
+		"rotate": 0, "hash": 3571001490
+	},
+	"hotel.png": {
+		"src": "hotel.png", "dst": "emojis.png",
+		"x": 1728, "y": 704, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.34375, "v1": 0.375,
+		"rotate": 0, "hash": 1046403640
+	},
+	"hotsprings.png": {
+		"src": "hotsprings.png", "dst": "emojis.png",
+		"x": 1792, "y": 704, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.34375, "v1": 0.375,
+		"rotate": 0, "hash": 3830079647
+	},
+	"hourglass.png": {
+		"src": "hourglass.png", "dst": "emojis.png",
+		"x": 1856, "y": 704, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.34375, "v1": 0.375,
+		"rotate": 0, "hash": 3334602488
+	},
+	"hourglass_flowing_sand.png": {
+		"src": "hourglass_flowing_sand.png", "dst": "emojis.png",
+		"x": 1920, "y": 704, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.34375, "v1": 0.375,
+		"rotate": 0, "hash": 181357628
+	},
+	"house.png": {
+		"src": "house.png", "dst": "emojis.png",
+		"x": 1984, "y": 704, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.34375, "v1": 0.375,
+		"rotate": 0, "hash": 2818177690
+	},
+	"house_with_garden.png": {
+		"src": "house_with_garden.png", "dst": "emojis.png",
+		"x": 0, "y": 769, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.375488, "v1": 0.406738,
+		"rotate": 0, "hash": 4111853061
+	},
+	"hurtrealbad.png": {
+		"src": "hurtrealbad.png", "dst": "emojis.png",
+		"x": 64, "y": 769, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.375488, "v1": 0.406738,
+		"rotate": 0, "hash": 1558440926
+	},
+	"hushed.png": {
+		"src": "hushed.png", "dst": "emojis.png",
+		"x": 128, "y": 769, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.375488, "v1": 0.406738,
+		"rotate": 0, "hash": 2845419225
+	},
+	"ice_cream.png": {
+		"src": "ice_cream.png", "dst": "emojis.png",
+		"x": 192, "y": 769, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.375488, "v1": 0.406738,
+		"rotate": 0, "hash": 3788291032
+	},
+	"icecream.png": {
+		"src": "icecream.png", "dst": "emojis.png",
+		"x": 256, "y": 769, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.375488, "v1": 0.406738,
+		"rotate": 0, "hash": 3268785399
+	},
+	"id.png": {
+		"src": "id.png", "dst": "emojis.png",
+		"x": 320, "y": 769, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.375488, "v1": 0.406738,
+		"rotate": 0, "hash": 747768325
+	},
+	"ideograph_advantage.png": {
+		"src": "ideograph_advantage.png", "dst": "emojis.png",
+		"x": 384, "y": 769, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.375488, "v1": 0.406738,
+		"rotate": 0, "hash": 601887847
+	},
+	"imp.png": {
+		"src": "imp.png", "dst": "emojis.png",
+		"x": 448, "y": 769, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.375488, "v1": 0.406738,
+		"rotate": 0, "hash": 2833286292
+	},
+	"inbox_tray.png": {
+		"src": "inbox_tray.png", "dst": "emojis.png",
+		"x": 512, "y": 769, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.375488, "v1": 0.406738,
+		"rotate": 0, "hash": 2048707289
+	},
+	"incoming_envelope.png": {
+		"src": "incoming_envelope.png", "dst": "emojis.png",
+		"x": 576, "y": 769, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.375488, "v1": 0.406738,
+		"rotate": 0, "hash": 610658627
+	},
+	"information_desk_person.png": {
+		"src": "information_desk_person.png", "dst": "emojis.png",
+		"x": 640, "y": 769, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.375488, "v1": 0.406738,
+		"rotate": 0, "hash": 1564838328
+	},
+	"information_source.png": {
+		"src": "information_source.png", "dst": "emojis.png",
+		"x": 704, "y": 769, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.375488, "v1": 0.406738,
+		"rotate": 0, "hash": 2360802066
+	},
+	"innocent.png": {
+		"src": "innocent.png", "dst": "emojis.png",
+		"x": 768, "y": 769, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.375488, "v1": 0.406738,
+		"rotate": 0, "hash": 1466078958
+	},
+	"interrobang.png": {
+		"src": "interrobang.png", "dst": "emojis.png",
+		"x": 832, "y": 769, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.375488, "v1": 0.406738,
+		"rotate": 0, "hash": 1207112285
+	},
+	"iphone.png": {
+		"src": "iphone.png", "dst": "emojis.png",
+		"x": 896, "y": 769, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.375488, "v1": 0.406738,
+		"rotate": 0, "hash": 4227616805
+	},
+	"it.png": {
+		"src": "it.png", "dst": "emojis.png",
+		"x": 960, "y": 769, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.375488, "v1": 0.406738,
+		"rotate": 0, "hash": 4170888405
+	},
+	"izakaya_lantern.png": {
+		"src": "izakaya_lantern.png", "dst": "emojis.png",
+		"x": 1024, "y": 768, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.375, "v1": 0.40625,
+		"rotate": 0, "hash": 2645572741
+	},
+	"jack_o_lantern.png": {
+		"src": "jack_o_lantern.png", "dst": "emojis.png",
+		"x": 1088, "y": 768, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.375, "v1": 0.40625,
+		"rotate": 0, "hash": 1598229902
+	},
+	"japan.png": {
+		"src": "japan.png", "dst": "emojis.png",
+		"x": 1152, "y": 768, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.375, "v1": 0.40625,
+		"rotate": 0, "hash": 3920530330
+	},
+	"japanese_castle.png": {
+		"src": "japanese_castle.png", "dst": "emojis.png",
+		"x": 1216, "y": 768, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.375, "v1": 0.40625,
+		"rotate": 0, "hash": 4004226306
+	},
+	"japanese_goblin.png": {
+		"src": "japanese_goblin.png", "dst": "emojis.png",
+		"x": 1280, "y": 768, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.375, "v1": 0.40625,
+		"rotate": 0, "hash": 433793197
+	},
+	"japanese_ogre.png": {
+		"src": "japanese_ogre.png", "dst": "emojis.png",
+		"x": 1344, "y": 768, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.375, "v1": 0.40625,
+		"rotate": 0, "hash": 699715573
+	},
+	"jeans.png": {
+		"src": "jeans.png", "dst": "emojis.png",
+		"x": 1408, "y": 768, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.375, "v1": 0.40625,
+		"rotate": 0, "hash": 174697297
+	},
+	"joy.png": {
+		"src": "joy.png", "dst": "emojis.png",
+		"x": 1472, "y": 768, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.375, "v1": 0.40625,
+		"rotate": 0, "hash": 2772983896
+	},
+	"joy_cat.png": {
+		"src": "joy_cat.png", "dst": "emojis.png",
+		"x": 1536, "y": 768, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.375, "v1": 0.40625,
+		"rotate": 0, "hash": 3707770443
+	},
+	"jp.png": {
+		"src": "jp.png", "dst": "emojis.png",
+		"x": 1600, "y": 768, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.375, "v1": 0.40625,
+		"rotate": 0, "hash": 3657566622
+	},
+	"key.png": {
+		"src": "key.png", "dst": "emojis.png",
+		"x": 1664, "y": 768, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.375, "v1": 0.40625,
+		"rotate": 0, "hash": 73582841
+	},
+	"keycap_ten.png": {
+		"src": "keycap_ten.png", "dst": "emojis.png",
+		"x": 1728, "y": 768, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.375, "v1": 0.40625,
+		"rotate": 0, "hash": 1088196669
+	},
+	"kimono.png": {
+		"src": "kimono.png", "dst": "emojis.png",
+		"x": 1792, "y": 768, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.375, "v1": 0.40625,
+		"rotate": 0, "hash": 2514029783
+	},
+	"kiss.png": {
+		"src": "kiss.png", "dst": "emojis.png",
+		"x": 1856, "y": 768, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.375, "v1": 0.40625,
+		"rotate": 0, "hash": 2932178334
+	},
+	"kissing.png": {
+		"src": "kissing.png", "dst": "emojis.png",
+		"x": 1920, "y": 768, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.375, "v1": 0.40625,
+		"rotate": 0, "hash": 174930868
+	},
+	"kissing_cat.png": {
+		"src": "kissing_cat.png", "dst": "emojis.png",
+		"x": 1984, "y": 768, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.375, "v1": 0.40625,
+		"rotate": 0, "hash": 926260263
+	},
+	"kissing_closed_eyes.png": {
+		"src": "kissing_closed_eyes.png", "dst": "emojis.png",
+		"x": 0, "y": 833, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.406738, "v1": 0.437988,
+		"rotate": 0, "hash": 529841760
+	},
+	"kissing_heart.png": {
+		"src": "kissing_heart.png", "dst": "emojis.png",
+		"x": 64, "y": 833, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.406738, "v1": 0.437988,
+		"rotate": 0, "hash": 3879750647
+	},
+	"kissing_smiling_eyes.png": {
+		"src": "kissing_smiling_eyes.png", "dst": "emojis.png",
+		"x": 128, "y": 833, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.406738, "v1": 0.437988,
+		"rotate": 0, "hash": 2456619869
+	},
+	"koala.png": {
+		"src": "koala.png", "dst": "emojis.png",
+		"x": 192, "y": 833, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.406738, "v1": 0.437988,
+		"rotate": 0, "hash": 4006262316
+	},
+	"koko.png": {
+		"src": "koko.png", "dst": "emojis.png",
+		"x": 256, "y": 833, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.406738, "v1": 0.437988,
+		"rotate": 0, "hash": 3694624508
+	},
+	"kr.png": {
+		"src": "kr.png", "dst": "emojis.png",
+		"x": 320, "y": 833, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.406738, "v1": 0.437988,
+		"rotate": 0, "hash": 1915079373
+	},
+	"large_blue_circle.png": {
+		"src": "large_blue_circle.png", "dst": "emojis.png",
+		"x": 384, "y": 833, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.406738, "v1": 0.437988,
+		"rotate": 0, "hash": 1111762323
+	},
+	"large_blue_diamond.png": {
+		"src": "large_blue_diamond.png", "dst": "emojis.png",
+		"x": 448, "y": 833, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.406738, "v1": 0.437988,
+		"rotate": 0, "hash": 3007899435
+	},
+	"large_orange_diamond.png": {
+		"src": "large_orange_diamond.png", "dst": "emojis.png",
+		"x": 512, "y": 833, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.406738, "v1": 0.437988,
+		"rotate": 0, "hash": 349519985
+	},
+	"last_quarter_moon.png": {
+		"src": "last_quarter_moon.png", "dst": "emojis.png",
+		"x": 576, "y": 833, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.406738, "v1": 0.437988,
+		"rotate": 0, "hash": 4151062759
+	},
+	"last_quarter_moon_with_face.png": {
+		"src": "last_quarter_moon_with_face.png", "dst": "emojis.png",
+		"x": 640, "y": 833, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.406738, "v1": 0.437988,
+		"rotate": 0, "hash": 592883240
+	},
+	"laughing.png": {
+		"src": "laughing.png", "dst": "emojis.png",
+		"x": 704, "y": 833, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.406738, "v1": 0.437988,
+		"rotate": 0, "hash": 1955766067
+	},
+	"leaves.png": {
+		"src": "leaves.png", "dst": "emojis.png",
+		"x": 768, "y": 833, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.406738, "v1": 0.437988,
+		"rotate": 0, "hash": 308337404
+	},
+	"ledger.png": {
+		"src": "ledger.png", "dst": "emojis.png",
+		"x": 832, "y": 833, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.406738, "v1": 0.437988,
+		"rotate": 0, "hash": 215579801
+	},
+	"left_luggage.png": {
+		"src": "left_luggage.png", "dst": "emojis.png",
+		"x": 896, "y": 833, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.406738, "v1": 0.437988,
+		"rotate": 0, "hash": 2321680658
+	},
+	"left_right_arrow.png": {
+		"src": "left_right_arrow.png", "dst": "emojis.png",
+		"x": 960, "y": 833, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.406738, "v1": 0.437988,
+		"rotate": 0, "hash": 2947215386
+	},
+	"leftwards_arrow_with_hook.png": {
+		"src": "leftwards_arrow_with_hook.png", "dst": "emojis.png",
+		"x": 1024, "y": 832, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.40625, "v1": 0.4375,
+		"rotate": 0, "hash": 3994713653
+	},
+	"lemon.png": {
+		"src": "lemon.png", "dst": "emojis.png",
+		"x": 1088, "y": 832, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.40625, "v1": 0.4375,
+		"rotate": 0, "hash": 3829683221
+	},
+	"leo.png": {
+		"src": "leo.png", "dst": "emojis.png",
+		"x": 1152, "y": 832, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.40625, "v1": 0.4375,
+		"rotate": 0, "hash": 1432352262
+	},
+	"leopard.png": {
+		"src": "leopard.png", "dst": "emojis.png",
+		"x": 1216, "y": 832, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.40625, "v1": 0.4375,
+		"rotate": 0, "hash": 2992193411
+	},
+	"libra.png": {
+		"src": "libra.png", "dst": "emojis.png",
+		"x": 1280, "y": 832, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.40625, "v1": 0.4375,
+		"rotate": 0, "hash": 3447976052
+	},
+	"light_rail.png": {
+		"src": "light_rail.png", "dst": "emojis.png",
+		"x": 1344, "y": 832, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.40625, "v1": 0.4375,
+		"rotate": 0, "hash": 1225324861
+	},
+	"link.png": {
+		"src": "link.png", "dst": "emojis.png",
+		"x": 1408, "y": 832, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.40625, "v1": 0.4375,
+		"rotate": 0, "hash": 869248668
+	},
+	"lips.png": {
+		"src": "lips.png", "dst": "emojis.png",
+		"x": 1472, "y": 832, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.40625, "v1": 0.4375,
+		"rotate": 0, "hash": 1589892578
+	},
+	"lipstick.png": {
+		"src": "lipstick.png", "dst": "emojis.png",
+		"x": 1536, "y": 832, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.40625, "v1": 0.4375,
+		"rotate": 0, "hash": 2090679867
+	},
+	"lock.png": {
+		"src": "lock.png", "dst": "emojis.png",
+		"x": 1600, "y": 832, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.40625, "v1": 0.4375,
+		"rotate": 0, "hash": 2279244867
+	},
+	"lock_with_ink_pen.png": {
+		"src": "lock_with_ink_pen.png", "dst": "emojis.png",
+		"x": 1664, "y": 832, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.40625, "v1": 0.4375,
+		"rotate": 0, "hash": 2029102793
+	},
+	"lollipop.png": {
+		"src": "lollipop.png", "dst": "emojis.png",
+		"x": 1728, "y": 832, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.40625, "v1": 0.4375,
+		"rotate": 0, "hash": 3375040523
+	},
+	"loop.png": {
+		"src": "loop.png", "dst": "emojis.png",
+		"x": 1792, "y": 832, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.40625, "v1": 0.4375,
+		"rotate": 0, "hash": 2899807818
+	},
+	"loudspeaker.png": {
+		"src": "loudspeaker.png", "dst": "emojis.png",
+		"x": 1856, "y": 832, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.40625, "v1": 0.4375,
+		"rotate": 0, "hash": 2868338667
+	},
+	"love_hotel.png": {
+		"src": "love_hotel.png", "dst": "emojis.png",
+		"x": 1920, "y": 832, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.40625, "v1": 0.4375,
+		"rotate": 0, "hash": 3780179657
+	},
+	"love_letter.png": {
+		"src": "love_letter.png", "dst": "emojis.png",
+		"x": 1984, "y": 832, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.40625, "v1": 0.4375,
+		"rotate": 0, "hash": 654267823
+	},
+	"low_brightness.png": {
+		"src": "low_brightness.png", "dst": "emojis.png",
+		"x": 0, "y": 897, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.437988, "v1": 0.469238,
+		"rotate": 0, "hash": 4159800580
+	},
+	"m.png": {
+		"src": "m.png", "dst": "emojis.png",
+		"x": 64, "y": 897, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.437988, "v1": 0.469238,
+		"rotate": 0, "hash": 1977298013
+	},
+	"mag.png": {
+		"src": "mag.png", "dst": "emojis.png",
+		"x": 128, "y": 897, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.437988, "v1": 0.469238,
+		"rotate": 0, "hash": 1193022849
+	},
+	"mag_right.png": {
+		"src": "mag_right.png", "dst": "emojis.png",
+		"x": 192, "y": 897, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.437988, "v1": 0.469238,
+		"rotate": 0, "hash": 3289752796
+	},
+	"mahjong.png": {
+		"src": "mahjong.png", "dst": "emojis.png",
+		"x": 256, "y": 897, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.437988, "v1": 0.469238,
+		"rotate": 0, "hash": 1763464876
+	},
+	"mailbox.png": {
+		"src": "mailbox.png", "dst": "emojis.png",
+		"x": 320, "y": 897, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.437988, "v1": 0.469238,
+		"rotate": 0, "hash": 447957162
+	},
+	"mailbox_closed.png": {
+		"src": "mailbox_closed.png", "dst": "emojis.png",
+		"x": 384, "y": 897, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.437988, "v1": 0.469238,
+		"rotate": 0, "hash": 3063295161
+	},
+	"mailbox_with_mail.png": {
+		"src": "mailbox_with_mail.png", "dst": "emojis.png",
+		"x": 448, "y": 897, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.437988, "v1": 0.469238,
+		"rotate": 0, "hash": 3107237403
+	},
+	"mailbox_with_no_mail.png": {
+		"src": "mailbox_with_no_mail.png", "dst": "emojis.png",
+		"x": 512, "y": 897, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.437988, "v1": 0.469238,
+		"rotate": 0, "hash": 3324876481
+	},
+	"man.png": {
+		"src": "man.png", "dst": "emojis.png",
+		"x": 576, "y": 897, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.437988, "v1": 0.469238,
+		"rotate": 0, "hash": 3598127030
+	},
+	"man_with_gua_pi_mao.png": {
+		"src": "man_with_gua_pi_mao.png", "dst": "emojis.png",
+		"x": 640, "y": 897, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.437988, "v1": 0.469238,
+		"rotate": 0, "hash": 3158138655
+	},
+	"man_with_turban.png": {
+		"src": "man_with_turban.png", "dst": "emojis.png",
+		"x": 704, "y": 897, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.437988, "v1": 0.469238,
+		"rotate": 0, "hash": 488769092
+	},
+	"mans_shoe.png": {
+		"src": "mans_shoe.png", "dst": "emojis.png",
+		"x": 768, "y": 897, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.437988, "v1": 0.469238,
+		"rotate": 0, "hash": 2487221863
+	},
+	"maple_leaf.png": {
+		"src": "maple_leaf.png", "dst": "emojis.png",
+		"x": 832, "y": 897, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.437988, "v1": 0.469238,
+		"rotate": 0, "hash": 1918924838
+	},
+	"mask.png": {
+		"src": "mask.png", "dst": "emojis.png",
+		"x": 896, "y": 897, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.437988, "v1": 0.469238,
+		"rotate": 0, "hash": 4004568476
+	},
+	"massage.png": {
+		"src": "massage.png", "dst": "emojis.png",
+		"x": 960, "y": 897, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.437988, "v1": 0.469238,
+		"rotate": 0, "hash": 2008496725
+	},
+	"meat_on_bone.png": {
+		"src": "meat_on_bone.png", "dst": "emojis.png",
+		"x": 1024, "y": 896, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.4375, "v1": 0.46875,
+		"rotate": 0, "hash": 713506488
+	},
+	"mega.png": {
+		"src": "mega.png", "dst": "emojis.png",
+		"x": 1088, "y": 896, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.4375, "v1": 0.46875,
+		"rotate": 0, "hash": 2166207058
+	},
+	"melon.png": {
+		"src": "melon.png", "dst": "emojis.png",
+		"x": 1152, "y": 896, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.4375, "v1": 0.46875,
+		"rotate": 0, "hash": 450643977
+	},
+	"memo.png": {
+		"src": "memo.png", "dst": "emojis.png",
+		"x": 1216, "y": 896, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.4375, "v1": 0.46875,
+		"rotate": 0, "hash": 2965512514
+	},
+	"mens.png": {
+		"src": "mens.png", "dst": "emojis.png",
+		"x": 1280, "y": 896, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.4375, "v1": 0.46875,
+		"rotate": 0, "hash": 1219284813
+	},
+	"metal.png": {
+		"src": "metal.png", "dst": "emojis.png",
+		"x": 1344, "y": 896, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.4375, "v1": 0.46875,
+		"rotate": 0, "hash": 1755591049
+	},
+	"metro.png": {
+		"src": "metro.png", "dst": "emojis.png",
+		"x": 1408, "y": 896, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.4375, "v1": 0.46875,
+		"rotate": 0, "hash": 953308779
+	},
+	"microphone.png": {
+		"src": "microphone.png", "dst": "emojis.png",
+		"x": 1472, "y": 896, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.4375, "v1": 0.46875,
+		"rotate": 0, "hash": 396855932
+	},
+	"microscope.png": {
+		"src": "microscope.png", "dst": "emojis.png",
+		"x": 1536, "y": 896, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.4375, "v1": 0.46875,
+		"rotate": 0, "hash": 1296367364
+	},
+	"milky_way.png": {
+		"src": "milky_way.png", "dst": "emojis.png",
+		"x": 1600, "y": 896, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.4375, "v1": 0.46875,
+		"rotate": 0, "hash": 656450548
+	},
+	"minibus.png": {
+		"src": "minibus.png", "dst": "emojis.png",
+		"x": 1664, "y": 896, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.4375, "v1": 0.46875,
+		"rotate": 0, "hash": 108852713
+	},
+	"minidisc.png": {
+		"src": "minidisc.png", "dst": "emojis.png",
+		"x": 1728, "y": 896, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.4375, "v1": 0.46875,
+		"rotate": 0, "hash": 1821438590
+	},
+	"mobile_phone_off.png": {
+		"src": "mobile_phone_off.png", "dst": "emojis.png",
+		"x": 1792, "y": 896, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.4375, "v1": 0.46875,
+		"rotate": 0, "hash": 3445150959
+	},
+	"money_with_wings.png": {
+		"src": "money_with_wings.png", "dst": "emojis.png",
+		"x": 1856, "y": 896, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.4375, "v1": 0.46875,
+		"rotate": 0, "hash": 2025254842
+	},
+	"moneybag.png": {
+		"src": "moneybag.png", "dst": "emojis.png",
+		"x": 1920, "y": 896, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.4375, "v1": 0.46875,
+		"rotate": 0, "hash": 3706876006
+	},
+	"monkey.png": {
+		"src": "monkey.png", "dst": "emojis.png",
+		"x": 1984, "y": 896, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.4375, "v1": 0.46875,
+		"rotate": 0, "hash": 3962509069
+	},
+	"monkey_face.png": {
+		"src": "monkey_face.png", "dst": "emojis.png",
+		"x": 0, "y": 961, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.469238, "v1": 0.500488,
+		"rotate": 0, "hash": 2754265625
+	},
+	"monorail.png": {
+		"src": "monorail.png", "dst": "emojis.png",
+		"x": 64, "y": 961, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.469238, "v1": 0.500488,
+		"rotate": 0, "hash": 4161997527
+	},
+	"moon.png": {
+		"src": "moon.png", "dst": "emojis.png",
+		"x": 128, "y": 961, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.469238, "v1": 0.500488,
+		"rotate": 0, "hash": 1779612005
+	},
+	"mortar_board.png": {
+		"src": "mortar_board.png", "dst": "emojis.png",
+		"x": 192, "y": 961, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.469238, "v1": 0.500488,
+		"rotate": 0, "hash": 2291725934
+	},
+	"mount_fuji.png": {
+		"src": "mount_fuji.png", "dst": "emojis.png",
+		"x": 256, "y": 961, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.469238, "v1": 0.500488,
+		"rotate": 0, "hash": 3749146410
+	},
+	"mountain_bicyclist.png": {
+		"src": "mountain_bicyclist.png", "dst": "emojis.png",
+		"x": 320, "y": 961, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.469238, "v1": 0.500488,
+		"rotate": 0, "hash": 1552944854
+	},
+	"mountain_cableway.png": {
+		"src": "mountain_cableway.png", "dst": "emojis.png",
+		"x": 384, "y": 961, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.469238, "v1": 0.500488,
+		"rotate": 0, "hash": 535827746
+	},
+	"mountain_railway.png": {
+		"src": "mountain_railway.png", "dst": "emojis.png",
+		"x": 448, "y": 961, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.469238, "v1": 0.500488,
+		"rotate": 0, "hash": 3694666127
+	},
+	"mouse.png": {
+		"src": "mouse.png", "dst": "emojis.png",
+		"x": 512, "y": 961, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.469238, "v1": 0.500488,
+		"rotate": 0, "hash": 3849299377
+	},
+	"mouse2.png": {
+		"src": "mouse2.png", "dst": "emojis.png",
+		"x": 576, "y": 961, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.469238, "v1": 0.500488,
+		"rotate": 0, "hash": 975669059
+	},
+	"movie_camera.png": {
+		"src": "movie_camera.png", "dst": "emojis.png",
+		"x": 640, "y": 961, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.469238, "v1": 0.500488,
+		"rotate": 0, "hash": 2523520006
+	},
+	"moyai.png": {
+		"src": "moyai.png", "dst": "emojis.png",
+		"x": 704, "y": 961, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.469238, "v1": 0.500488,
+		"rotate": 0, "hash": 3949042115
+	},
+	"muscle.png": {
+		"src": "muscle.png", "dst": "emojis.png",
+		"x": 768, "y": 961, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.469238, "v1": 0.500488,
+		"rotate": 0, "hash": 2942556531
+	},
+	"mushroom.png": {
+		"src": "mushroom.png", "dst": "emojis.png",
+		"x": 832, "y": 961, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.469238, "v1": 0.500488,
+		"rotate": 0, "hash": 1643738334
+	},
+	"musical_keyboard.png": {
+		"src": "musical_keyboard.png", "dst": "emojis.png",
+		"x": 896, "y": 961, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.469238, "v1": 0.500488,
+		"rotate": 0, "hash": 453538766
+	},
+	"musical_note.png": {
+		"src": "musical_note.png", "dst": "emojis.png",
+		"x": 960, "y": 961, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.469238, "v1": 0.500488,
+		"rotate": 0, "hash": 469662711
+	},
+	"musical_score.png": {
+		"src": "musical_score.png", "dst": "emojis.png",
+		"x": 1024, "y": 960, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.46875, "v1": 0.5,
+		"rotate": 0, "hash": 3464492861
+	},
+	"mute.png": {
+		"src": "mute.png", "dst": "emojis.png",
+		"x": 1088, "y": 960, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.46875, "v1": 0.5,
+		"rotate": 0, "hash": 540520033
+	},
+	"nail_care.png": {
+		"src": "nail_care.png", "dst": "emojis.png",
+		"x": 1152, "y": 960, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.46875, "v1": 0.5,
+		"rotate": 0, "hash": 1922881190
+	},
+	"name_badge.png": {
+		"src": "name_badge.png", "dst": "emojis.png",
+		"x": 1216, "y": 960, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.46875, "v1": 0.5,
+		"rotate": 0, "hash": 3880027995
+	},
+	"neckbeard.png": {
+		"src": "neckbeard.png", "dst": "emojis.png",
+		"x": 1280, "y": 960, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.46875, "v1": 0.5,
+		"rotate": 0, "hash": 1709898833
+	},
+	"necktie.png": {
+		"src": "necktie.png", "dst": "emojis.png",
+		"x": 1344, "y": 960, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.46875, "v1": 0.5,
+		"rotate": 0, "hash": 2887776025
+	},
+	"negative_squared_cross_mark.png": {
+		"src": "negative_squared_cross_mark.png", "dst": "emojis.png",
+		"x": 1408, "y": 960, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.46875, "v1": 0.5,
+		"rotate": 0, "hash": 2338316508
+	},
+	"neutral_face.png": {
+		"src": "neutral_face.png", "dst": "emojis.png",
+		"x": 1472, "y": 960, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.46875, "v1": 0.5,
+		"rotate": 0, "hash": 2801371337
+	},
+	"new.png": {
+		"src": "new.png", "dst": "emojis.png",
+		"x": 1536, "y": 960, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.46875, "v1": 0.5,
+		"rotate": 0, "hash": 4166605476
+	},
+	"new_moon.png": {
+		"src": "new_moon.png", "dst": "emojis.png",
+		"x": 1600, "y": 960, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.46875, "v1": 0.5,
+		"rotate": 0, "hash": 835505598
+	},
+	"new_moon_with_face.png": {
+		"src": "new_moon_with_face.png", "dst": "emojis.png",
+		"x": 1664, "y": 960, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.46875, "v1": 0.5,
+		"rotate": 0, "hash": 1809705793
+	},
+	"newspaper.png": {
+		"src": "newspaper.png", "dst": "emojis.png",
+		"x": 1728, "y": 960, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.46875, "v1": 0.5,
+		"rotate": 0, "hash": 3355602317
+	},
+	"ng.png": {
+		"src": "ng.png", "dst": "emojis.png",
+		"x": 1792, "y": 960, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.46875, "v1": 0.5,
+		"rotate": 0, "hash": 2610232931
+	},
+	"nine.png": {
+		"src": "nine.png", "dst": "emojis.png",
+		"x": 1856, "y": 960, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.46875, "v1": 0.5,
+		"rotate": 0, "hash": 1751746000
+	},
+	"no_bell.png": {
+		"src": "no_bell.png", "dst": "emojis.png",
+		"x": 1920, "y": 960, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.46875, "v1": 0.5,
+		"rotate": 0, "hash": 2256777839
+	},
+	"no_bicycles.png": {
+		"src": "no_bicycles.png", "dst": "emojis.png",
+		"x": 1984, "y": 960, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.46875, "v1": 0.5,
+		"rotate": 0, "hash": 1215599456
+	},
+	"no_entry.png": {
+		"src": "no_entry.png", "dst": "emojis.png",
+		"x": 0, "y": 1025, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.500488, "v1": 0.531738,
+		"rotate": 0, "hash": 1256086556
+	},
+	"no_entry_sign.png": {
+		"src": "no_entry_sign.png", "dst": "emojis.png",
+		"x": 64, "y": 1025, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.500488, "v1": 0.531738,
+		"rotate": 0, "hash": 1103650422
+	},
+	"no_good.png": {
+		"src": "no_good.png", "dst": "emojis.png",
+		"x": 128, "y": 1025, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.500488, "v1": 0.531738,
+		"rotate": 0, "hash": 63321479
+	},
+	"no_mobile_phones.png": {
+		"src": "no_mobile_phones.png", "dst": "emojis.png",
+		"x": 192, "y": 1025, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.500488, "v1": 0.531738,
+		"rotate": 0, "hash": 732115738
+	},
+	"no_mouth.png": {
+		"src": "no_mouth.png", "dst": "emojis.png",
+		"x": 256, "y": 1025, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.500488, "v1": 0.531738,
+		"rotate": 0, "hash": 1798821711
+	},
+	"no_pedestrians.png": {
+		"src": "no_pedestrians.png", "dst": "emojis.png",
+		"x": 320, "y": 1025, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.500488, "v1": 0.531738,
+		"rotate": 0, "hash": 81612082
+	},
+	"no_smoking.png": {
+		"src": "no_smoking.png", "dst": "emojis.png",
+		"x": 384, "y": 1025, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.500488, "v1": 0.531738,
+		"rotate": 0, "hash": 2055141210
+	},
+	"non-potable_water.png": {
+		"src": "non-potable_water.png", "dst": "emojis.png",
+		"x": 448, "y": 1025, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.500488, "v1": 0.531738,
+		"rotate": 0, "hash": 409436683
+	},
+	"nose.png": {
+		"src": "nose.png", "dst": "emojis.png",
+		"x": 512, "y": 1025, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.500488, "v1": 0.531738,
+		"rotate": 0, "hash": 2521772107
+	},
+	"notebook.png": {
+		"src": "notebook.png", "dst": "emojis.png",
+		"x": 576, "y": 1025, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.500488, "v1": 0.531738,
+		"rotate": 0, "hash": 2553604549
+	},
+	"notebook_with_decorative_cover.png": {
+		"src": "notebook_with_decorative_cover.png", "dst": "emojis.png",
+		"x": 640, "y": 1025, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.500488, "v1": 0.531738,
+		"rotate": 0, "hash": 1701100893
+	},
+	"notes.png": {
+		"src": "notes.png", "dst": "emojis.png",
+		"x": 704, "y": 1025, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.500488, "v1": 0.531738,
+		"rotate": 0, "hash": 4177966795
+	},
+	"nut_and_bolt.png": {
+		"src": "nut_and_bolt.png", "dst": "emojis.png",
+		"x": 768, "y": 1025, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.500488, "v1": 0.531738,
+		"rotate": 0, "hash": 463778089
+	},
+	"o.png": {
+		"src": "o.png", "dst": "emojis.png",
+		"x": 832, "y": 1025, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.500488, "v1": 0.531738,
+		"rotate": 0, "hash": 2702345815
+	},
+	"o2.png": {
+		"src": "o2.png", "dst": "emojis.png",
+		"x": 896, "y": 1025, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.500488, "v1": 0.531738,
+		"rotate": 0, "hash": 2497647025
+	},
+	"ocean.png": {
+		"src": "ocean.png", "dst": "emojis.png",
+		"x": 960, "y": 1025, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.500488, "v1": 0.531738,
+		"rotate": 0, "hash": 3585660452
+	},
+	"octocat.png": {
+		"src": "octocat.png", "dst": "emojis.png",
+		"x": 1024, "y": 1024, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.5, "v1": 0.53125,
+		"rotate": 0, "hash": 1086546671
+	},
+	"octopus.png": {
+		"src": "octopus.png", "dst": "emojis.png",
+		"x": 1088, "y": 1024, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.5, "v1": 0.53125,
+		"rotate": 0, "hash": 246456871
+	},
+	"oden.png": {
+		"src": "oden.png", "dst": "emojis.png",
+		"x": 1152, "y": 1024, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.5, "v1": 0.53125,
+		"rotate": 0, "hash": 2841256008
+	},
+	"office.png": {
+		"src": "office.png", "dst": "emojis.png",
+		"x": 1216, "y": 1024, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.5, "v1": 0.53125,
+		"rotate": 0, "hash": 2686677956
+	},
+	"ok.png": {
+		"src": "ok.png", "dst": "emojis.png",
+		"x": 1280, "y": 1024, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.5, "v1": 0.53125,
+		"rotate": 0, "hash": 1980810870
+	},
+	"ok_hand.png": {
+		"src": "ok_hand.png", "dst": "emojis.png",
+		"x": 1344, "y": 1024, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.5, "v1": 0.53125,
+		"rotate": 0, "hash": 2608206804
+	},
+	"ok_woman.png": {
+		"src": "ok_woman.png", "dst": "emojis.png",
+		"x": 1408, "y": 1024, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.5, "v1": 0.53125,
+		"rotate": 0, "hash": 2070130947
+	},
+	"older_man.png": {
+		"src": "older_man.png", "dst": "emojis.png",
+		"x": 1472, "y": 1024, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.5, "v1": 0.53125,
+		"rotate": 0, "hash": 3475742415
+	},
+	"older_woman.png": {
+		"src": "older_woman.png", "dst": "emojis.png",
+		"x": 1536, "y": 1024, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.5, "v1": 0.53125,
+		"rotate": 0, "hash": 1827816265
+	},
+	"on.png": {
+		"src": "on.png", "dst": "emojis.png",
+		"x": 1600, "y": 1024, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.5, "v1": 0.53125,
+		"rotate": 0, "hash": 880288277
+	},
+	"oncoming_automobile.png": {
+		"src": "oncoming_automobile.png", "dst": "emojis.png",
+		"x": 1664, "y": 1024, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.5, "v1": 0.53125,
+		"rotate": 0, "hash": 3889959088
+	},
+	"oncoming_bus.png": {
+		"src": "oncoming_bus.png", "dst": "emojis.png",
+		"x": 1728, "y": 1024, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.5, "v1": 0.53125,
+		"rotate": 0, "hash": 3821336611
+	},
+	"oncoming_police_car.png": {
+		"src": "oncoming_police_car.png", "dst": "emojis.png",
+		"x": 1792, "y": 1024, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.5, "v1": 0.53125,
+		"rotate": 0, "hash": 4218291174
+	},
+	"oncoming_taxi.png": {
+		"src": "oncoming_taxi.png", "dst": "emojis.png",
+		"x": 1856, "y": 1024, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.5, "v1": 0.53125,
+		"rotate": 0, "hash": 1302344477
+	},
+	"one.png": {
+		"src": "one.png", "dst": "emojis.png",
+		"x": 1920, "y": 1024, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.5, "v1": 0.53125,
+		"rotate": 0, "hash": 3217183286
+	},
+	"onehundred.png": {
+		"src": "onehundred.png", "dst": "emojis.png",
+		"x": 1984, "y": 1024, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.5, "v1": 0.53125,
+		"rotate": 0, "hash": 309218828
+	},
+	"onetwothreefour.png": {
+		"src": "onetwothreefour.png", "dst": "emojis.png",
+		"x": 0, "y": 1089, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.531738, "v1": 0.562988,
+		"rotate": 0, "hash": 1194768880
+	},
+	"onezeronine.png": {
+		"src": "onezeronine.png", "dst": "emojis.png",
+		"x": 64, "y": 1089, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.531738, "v1": 0.562988,
+		"rotate": 0, "hash": 923564044
+	},
+	"open_file_folder.png": {
+		"src": "open_file_folder.png", "dst": "emojis.png",
+		"x": 128, "y": 1089, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.531738, "v1": 0.562988,
+		"rotate": 0, "hash": 3747502228
+	},
+	"open_hands.png": {
+		"src": "open_hands.png", "dst": "emojis.png",
+		"x": 192, "y": 1089, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.531738, "v1": 0.562988,
+		"rotate": 0, "hash": 4045937289
+	},
+	"open_mouth.png": {
+		"src": "open_mouth.png", "dst": "emojis.png",
+		"x": 256, "y": 1089, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.531738, "v1": 0.562988,
+		"rotate": 0, "hash": 3525451080
+	},
+	"ophiuchus.png": {
+		"src": "ophiuchus.png", "dst": "emojis.png",
+		"x": 320, "y": 1089, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.531738, "v1": 0.562988,
+		"rotate": 0, "hash": 3723861354
+	},
+	"orange_book.png": {
+		"src": "orange_book.png", "dst": "emojis.png",
+		"x": 384, "y": 1089, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.531738, "v1": 0.562988,
+		"rotate": 0, "hash": 3137820484
+	},
+	"outbox_tray.png": {
+		"src": "outbox_tray.png", "dst": "emojis.png",
+		"x": 448, "y": 1089, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.531738, "v1": 0.562988,
+		"rotate": 0, "hash": 1930120672
+	},
+	"ox.png": {
+		"src": "ox.png", "dst": "emojis.png",
+		"x": 512, "y": 1089, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.531738, "v1": 0.562988,
+		"rotate": 0, "hash": 2187260211
+	},
+	"page_facing_up.png": {
+		"src": "page_facing_up.png", "dst": "emojis.png",
+		"x": 576, "y": 1089, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.531738, "v1": 0.562988,
+		"rotate": 0, "hash": 1758506754
+	},
+	"page_with_curl.png": {
+		"src": "page_with_curl.png", "dst": "emojis.png",
+		"x": 640, "y": 1089, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.531738, "v1": 0.562988,
+		"rotate": 0, "hash": 2738638807
+	},
+	"pager.png": {
+		"src": "pager.png", "dst": "emojis.png",
+		"x": 704, "y": 1089, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.531738, "v1": 0.562988,
+		"rotate": 0, "hash": 3706849497
+	},
+	"palm_tree.png": {
+		"src": "palm_tree.png", "dst": "emojis.png",
+		"x": 768, "y": 1089, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.531738, "v1": 0.562988,
+		"rotate": 0, "hash": 221323515
+	},
+	"panda_face.png": {
+		"src": "panda_face.png", "dst": "emojis.png",
+		"x": 832, "y": 1089, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.531738, "v1": 0.562988,
+		"rotate": 0, "hash": 3517480824
+	},
+	"paperclip.png": {
+		"src": "paperclip.png", "dst": "emojis.png",
+		"x": 896, "y": 1089, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.531738, "v1": 0.562988,
+		"rotate": 0, "hash": 61429950
+	},
+	"parking.png": {
+		"src": "parking.png", "dst": "emojis.png",
+		"x": 960, "y": 1089, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.531738, "v1": 0.562988,
+		"rotate": 0, "hash": 288883502
+	},
+	"part_alternation_mark.png": {
+		"src": "part_alternation_mark.png", "dst": "emojis.png",
+		"x": 1024, "y": 1088, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.53125, "v1": 0.5625,
+		"rotate": 0, "hash": 2405659645
+	},
+	"partly_sunny.png": {
+		"src": "partly_sunny.png", "dst": "emojis.png",
+		"x": 1088, "y": 1088, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.53125, "v1": 0.5625,
+		"rotate": 0, "hash": 3431295366
+	},
+	"passport_control.png": {
+		"src": "passport_control.png", "dst": "emojis.png",
+		"x": 1152, "y": 1088, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.53125, "v1": 0.5625,
+		"rotate": 0, "hash": 2202817532
+	},
+	"paw_prints.png": {
+		"src": "paw_prints.png", "dst": "emojis.png",
+		"x": 1216, "y": 1088, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.53125, "v1": 0.5625,
+		"rotate": 0, "hash": 55596785
+	},
+	"peach.png": {
+		"src": "peach.png", "dst": "emojis.png",
+		"x": 1280, "y": 1088, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.53125, "v1": 0.5625,
+		"rotate": 0, "hash": 1036906399
+	},
+	"pear.png": {
+		"src": "pear.png", "dst": "emojis.png",
+		"x": 1344, "y": 1088, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.53125, "v1": 0.5625,
+		"rotate": 0, "hash": 2797661544
+	},
+	"pencil.png": {
+		"src": "pencil.png", "dst": "emojis.png",
+		"x": 1408, "y": 1088, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.53125, "v1": 0.5625,
+		"rotate": 0, "hash": 1026260593
+	},
+	"pencil2.png": {
+		"src": "pencil2.png", "dst": "emojis.png",
+		"x": 1472, "y": 1088, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.53125, "v1": 0.5625,
+		"rotate": 0, "hash": 2542881411
+	},
+	"penguin.png": {
+		"src": "penguin.png", "dst": "emojis.png",
+		"x": 1536, "y": 1088, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.53125, "v1": 0.5625,
+		"rotate": 0, "hash": 3311353190
+	},
+	"pensive.png": {
+		"src": "pensive.png", "dst": "emojis.png",
+		"x": 1600, "y": 1088, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.53125, "v1": 0.5625,
+		"rotate": 0, "hash": 794104752
+	},
+	"performing_arts.png": {
+		"src": "performing_arts.png", "dst": "emojis.png",
+		"x": 1664, "y": 1088, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.53125, "v1": 0.5625,
+		"rotate": 0, "hash": 3885553204
+	},
+	"persevere.png": {
+		"src": "persevere.png", "dst": "emojis.png",
+		"x": 1728, "y": 1088, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.53125, "v1": 0.5625,
+		"rotate": 0, "hash": 2386125125
+	},
+	"person_frowning.png": {
+		"src": "person_frowning.png", "dst": "emojis.png",
+		"x": 1792, "y": 1088, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.53125, "v1": 0.5625,
+		"rotate": 0, "hash": 2110538112
+	},
+	"person_with_blond_hair.png": {
+		"src": "person_with_blond_hair.png", "dst": "emojis.png",
+		"x": 1856, "y": 1088, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.53125, "v1": 0.5625,
+		"rotate": 0, "hash": 990254741
+	},
+	"person_with_pouting_face.png": {
+		"src": "person_with_pouting_face.png", "dst": "emojis.png",
+		"x": 1920, "y": 1088, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.53125, "v1": 0.5625,
+		"rotate": 0, "hash": 1364546427
+	},
+	"phone.png": {
+		"src": "phone.png", "dst": "emojis.png",
+		"x": 1984, "y": 1088, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.53125, "v1": 0.5625,
+		"rotate": 0, "hash": 2211856502
+	},
+	"pig.png": {
+		"src": "pig.png", "dst": "emojis.png",
+		"x": 0, "y": 1153, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.562988, "v1": 0.594238,
+		"rotate": 0, "hash": 105160790
+	},
+	"pig2.png": {
+		"src": "pig2.png", "dst": "emojis.png",
+		"x": 64, "y": 1153, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.562988, "v1": 0.594238,
+		"rotate": 0, "hash": 836551886
+	},
+	"pig_nose.png": {
+		"src": "pig_nose.png", "dst": "emojis.png",
+		"x": 128, "y": 1153, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.562988, "v1": 0.594238,
+		"rotate": 0, "hash": 3162660674
+	},
+	"pill.png": {
+		"src": "pill.png", "dst": "emojis.png",
+		"x": 192, "y": 1153, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.562988, "v1": 0.594238,
+		"rotate": 0, "hash": 3280608995
+	},
+	"pineapple.png": {
+		"src": "pineapple.png", "dst": "emojis.png",
+		"x": 256, "y": 1153, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.562988, "v1": 0.594238,
+		"rotate": 0, "hash": 1932745028
+	},
+	"pisces.png": {
+		"src": "pisces.png", "dst": "emojis.png",
+		"x": 320, "y": 1153, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.562988, "v1": 0.594238,
+		"rotate": 0, "hash": 179879073
+	},
+	"pizza.png": {
+		"src": "pizza.png", "dst": "emojis.png",
+		"x": 384, "y": 1153, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.562988, "v1": 0.594238,
+		"rotate": 0, "hash": 2007629440
+	},
+	"point_down.png": {
+		"src": "point_down.png", "dst": "emojis.png",
+		"x": 448, "y": 1153, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.562988, "v1": 0.594238,
+		"rotate": 0, "hash": 3663303971
+	},
+	"point_left.png": {
+		"src": "point_left.png", "dst": "emojis.png",
+		"x": 512, "y": 1153, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.562988, "v1": 0.594238,
+		"rotate": 0, "hash": 1399960206
+	},
+	"point_right.png": {
+		"src": "point_right.png", "dst": "emojis.png",
+		"x": 576, "y": 1153, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.562988, "v1": 0.594238,
+		"rotate": 0, "hash": 3911040989
+	},
+	"point_up.png": {
+		"src": "point_up.png", "dst": "emojis.png",
+		"x": 640, "y": 1153, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.562988, "v1": 0.594238,
+		"rotate": 0, "hash": 2801393198
+	},
+	"point_up_2.png": {
+		"src": "point_up_2.png", "dst": "emojis.png",
+		"x": 704, "y": 1153, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.562988, "v1": 0.594238,
+		"rotate": 0, "hash": 3836841607
+	},
+	"police_car.png": {
+		"src": "police_car.png", "dst": "emojis.png",
+		"x": 768, "y": 1153, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.562988, "v1": 0.594238,
+		"rotate": 0, "hash": 2741563411
+	},
+	"poodle.png": {
+		"src": "poodle.png", "dst": "emojis.png",
+		"x": 832, "y": 1153, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.562988, "v1": 0.594238,
+		"rotate": 0, "hash": 2602842965
+	},
+	"poop.png": {
+		"src": "poop.png", "dst": "emojis.png",
+		"x": 896, "y": 1153, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.562988, "v1": 0.594238,
+		"rotate": 0, "hash": 3917790942
+	},
+	"post_office.png": {
+		"src": "post_office.png", "dst": "emojis.png",
+		"x": 960, "y": 1153, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.562988, "v1": 0.594238,
+		"rotate": 0, "hash": 2883576429
+	},
+	"postal_horn.png": {
+		"src": "postal_horn.png", "dst": "emojis.png",
+		"x": 1024, "y": 1152, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.5625, "v1": 0.59375,
+		"rotate": 0, "hash": 746487815
+	},
+	"postbox.png": {
+		"src": "postbox.png", "dst": "emojis.png",
+		"x": 1088, "y": 1152, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.5625, "v1": 0.59375,
+		"rotate": 0, "hash": 278239613
+	},
+	"potable_water.png": {
+		"src": "potable_water.png", "dst": "emojis.png",
+		"x": 1152, "y": 1152, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.5625, "v1": 0.59375,
+		"rotate": 0, "hash": 2383178617
+	},
+	"pouch.png": {
+		"src": "pouch.png", "dst": "emojis.png",
+		"x": 1216, "y": 1152, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.5625, "v1": 0.59375,
+		"rotate": 0, "hash": 110350865
+	},
+	"poultry_leg.png": {
+		"src": "poultry_leg.png", "dst": "emojis.png",
+		"x": 1280, "y": 1152, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.5625, "v1": 0.59375,
+		"rotate": 0, "hash": 2410940772
+	},
+	"pound.png": {
+		"src": "pound.png", "dst": "emojis.png",
+		"x": 1344, "y": 1152, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.5625, "v1": 0.59375,
+		"rotate": 0, "hash": 4180073232
+	},
+	"pouting_cat.png": {
+		"src": "pouting_cat.png", "dst": "emojis.png",
+		"x": 1408, "y": 1152, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.5625, "v1": 0.59375,
+		"rotate": 0, "hash": 3856908449
+	},
+	"pray.png": {
+		"src": "pray.png", "dst": "emojis.png",
+		"x": 1472, "y": 1152, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.5625, "v1": 0.59375,
+		"rotate": 0, "hash": 3598644388
+	},
+	"princess.png": {
+		"src": "princess.png", "dst": "emojis.png",
+		"x": 1536, "y": 1152, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.5625, "v1": 0.59375,
+		"rotate": 0, "hash": 3919975375
+	},
+	"punch.png": {
+		"src": "punch.png", "dst": "emojis.png",
+		"x": 1600, "y": 1152, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.5625, "v1": 0.59375,
+		"rotate": 0, "hash": 582152738
+	},
+	"purple_heart.png": {
+		"src": "purple_heart.png", "dst": "emojis.png",
+		"x": 1664, "y": 1152, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.5625, "v1": 0.59375,
+		"rotate": 0, "hash": 1862414889
+	},
+	"purse.png": {
+		"src": "purse.png", "dst": "emojis.png",
+		"x": 1728, "y": 1152, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.5625, "v1": 0.59375,
+		"rotate": 0, "hash": 4187124453
+	},
+	"pushpin.png": {
+		"src": "pushpin.png", "dst": "emojis.png",
+		"x": 1792, "y": 1152, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.5625, "v1": 0.59375,
+		"rotate": 0, "hash": 858611529
+	},
+	"put_litter_in_its_place.png": {
+		"src": "put_litter_in_its_place.png", "dst": "emojis.png",
+		"x": 1856, "y": 1152, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.5625, "v1": 0.59375,
+		"rotate": 0, "hash": 81412243
+	},
+	"question.png": {
+		"src": "question.png", "dst": "emojis.png",
+		"x": 1920, "y": 1152, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.5625, "v1": 0.59375,
+		"rotate": 0, "hash": 2082375008
+	},
+	"rabbit.png": {
+		"src": "rabbit.png", "dst": "emojis.png",
+		"x": 1984, "y": 1152, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.5625, "v1": 0.59375,
+		"rotate": 0, "hash": 1735710976
+	},
+	"rabbit2.png": {
+		"src": "rabbit2.png", "dst": "emojis.png",
+		"x": 0, "y": 1217, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.594238, "v1": 0.625488,
+		"rotate": 0, "hash": 1520023792
+	},
+	"racehorse.png": {
+		"src": "racehorse.png", "dst": "emojis.png",
+		"x": 64, "y": 1217, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.594238, "v1": 0.625488,
+		"rotate": 0, "hash": 2157747624
+	},
+	"radio.png": {
+		"src": "radio.png", "dst": "emojis.png",
+		"x": 128, "y": 1217, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.594238, "v1": 0.625488,
+		"rotate": 0, "hash": 258639425
+	},
+	"radio_button.png": {
+		"src": "radio_button.png", "dst": "emojis.png",
+		"x": 192, "y": 1217, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.594238, "v1": 0.625488,
+		"rotate": 0, "hash": 3858895200
+	},
+	"rage.png": {
+		"src": "rage.png", "dst": "emojis.png",
+		"x": 256, "y": 1217, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.594238, "v1": 0.625488,
+		"rotate": 0, "hash": 1015461657
+	},
+	"rage1.png": {
+		"src": "rage1.png", "dst": "emojis.png",
+		"x": 320, "y": 1217, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.594238, "v1": 0.625488,
+		"rotate": 0, "hash": 3955294030
+	},
+	"rage2.png": {
+		"src": "rage2.png", "dst": "emojis.png",
+		"x": 384, "y": 1217, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.594238, "v1": 0.625488,
+		"rotate": 0, "hash": 774150267
+	},
+	"rage3.png": {
+		"src": "rage3.png", "dst": "emojis.png",
+		"x": 448, "y": 1217, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.594238, "v1": 0.625488,
+		"rotate": 0, "hash": 402312872
+	},
+	"rage4.png": {
+		"src": "rage4.png", "dst": "emojis.png",
+		"x": 512, "y": 1217, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.594238, "v1": 0.625488,
+		"rotate": 0, "hash": 1992378669
+	},
+	"railway_car.png": {
+		"src": "railway_car.png", "dst": "emojis.png",
+		"x": 576, "y": 1217, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.594238, "v1": 0.625488,
+		"rotate": 0, "hash": 1654985300
+	},
+	"rainbow.png": {
+		"src": "rainbow.png", "dst": "emojis.png",
+		"x": 640, "y": 1217, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.594238, "v1": 0.625488,
+		"rotate": 0, "hash": 3746111324
+	},
+	"raised_hand.png": {
+		"src": "raised_hand.png", "dst": "emojis.png",
+		"x": 704, "y": 1217, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.594238, "v1": 0.625488,
+		"rotate": 0, "hash": 2728510226
+	},
+	"raised_hands.png": {
+		"src": "raised_hands.png", "dst": "emojis.png",
+		"x": 768, "y": 1217, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.594238, "v1": 0.625488,
+		"rotate": 0, "hash": 2612737509
+	},
+	"raising_hand.png": {
+		"src": "raising_hand.png", "dst": "emojis.png",
+		"x": 832, "y": 1217, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.594238, "v1": 0.625488,
+		"rotate": 0, "hash": 2739917833
+	},
+	"ram.png": {
+		"src": "ram.png", "dst": "emojis.png",
+		"x": 896, "y": 1217, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.594238, "v1": 0.625488,
+		"rotate": 0, "hash": 3595490402
+	},
+	"ramen.png": {
+		"src": "ramen.png", "dst": "emojis.png",
+		"x": 960, "y": 1217, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.594238, "v1": 0.625488,
+		"rotate": 0, "hash": 1258141345
+	},
+	"rat.png": {
+		"src": "rat.png", "dst": "emojis.png",
+		"x": 1024, "y": 1216, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.59375, "v1": 0.625,
+		"rotate": 0, "hash": 1617119133
+	},
+	"recycle.png": {
+		"src": "recycle.png", "dst": "emojis.png",
+		"x": 1088, "y": 1216, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.59375, "v1": 0.625,
+		"rotate": 0, "hash": 2290211207
+	},
+	"red_car.png": {
+		"src": "red_car.png", "dst": "emojis.png",
+		"x": 1152, "y": 1216, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.59375, "v1": 0.625,
+		"rotate": 0, "hash": 297644504
+	},
+	"red_circle.png": {
+		"src": "red_circle.png", "dst": "emojis.png",
+		"x": 1216, "y": 1216, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.59375, "v1": 0.625,
+		"rotate": 0, "hash": 3580960632
+	},
+	"registered.png": {
+		"src": "registered.png", "dst": "emojis.png",
+		"x": 1280, "y": 1216, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.59375, "v1": 0.625,
+		"rotate": 0, "hash": 2516908596
+	},
+	"relaxed.png": {
+		"src": "relaxed.png", "dst": "emojis.png",
+		"x": 1344, "y": 1216, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.59375, "v1": 0.625,
+		"rotate": 0, "hash": 2400154441
+	},
+	"relieved.png": {
+		"src": "relieved.png", "dst": "emojis.png",
+		"x": 1408, "y": 1216, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.59375, "v1": 0.625,
+		"rotate": 0, "hash": 3238610372
+	},
+	"repeat.png": {
+		"src": "repeat.png", "dst": "emojis.png",
+		"x": 1472, "y": 1216, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.59375, "v1": 0.625,
+		"rotate": 0, "hash": 840189867
+	},
+	"repeat_one.png": {
+		"src": "repeat_one.png", "dst": "emojis.png",
+		"x": 1536, "y": 1216, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.59375, "v1": 0.625,
+		"rotate": 0, "hash": 1857340664
+	},
+	"restroom.png": {
+		"src": "restroom.png", "dst": "emojis.png",
+		"x": 1600, "y": 1216, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.59375, "v1": 0.625,
+		"rotate": 0, "hash": 3787514949
+	},
+	"revolving_hearts.png": {
+		"src": "revolving_hearts.png", "dst": "emojis.png",
+		"x": 1664, "y": 1216, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.59375, "v1": 0.625,
+		"rotate": 0, "hash": 1257158764
+	},
+	"rewind.png": {
+		"src": "rewind.png", "dst": "emojis.png",
+		"x": 1728, "y": 1216, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.59375, "v1": 0.625,
+		"rotate": 0, "hash": 4015523783
+	},
+	"ribbon.png": {
+		"src": "ribbon.png", "dst": "emojis.png",
+		"x": 1792, "y": 1216, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.59375, "v1": 0.625,
+		"rotate": 0, "hash": 323424220
+	},
+	"rice.png": {
+		"src": "rice.png", "dst": "emojis.png",
+		"x": 1856, "y": 1216, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.59375, "v1": 0.625,
+		"rotate": 0, "hash": 1273407349
+	},
+	"rice_ball.png": {
+		"src": "rice_ball.png", "dst": "emojis.png",
+		"x": 1920, "y": 1216, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.59375, "v1": 0.625,
+		"rotate": 0, "hash": 1220284009
+	},
+	"rice_cracker.png": {
+		"src": "rice_cracker.png", "dst": "emojis.png",
+		"x": 1984, "y": 1216, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.59375, "v1": 0.625,
+		"rotate": 0, "hash": 3238598611
+	},
+	"rice_scene.png": {
+		"src": "rice_scene.png", "dst": "emojis.png",
+		"x": 0, "y": 1281, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.625488, "v1": 0.656738,
+		"rotate": 0, "hash": 3090230314
+	},
+	"ring.png": {
+		"src": "ring.png", "dst": "emojis.png",
+		"x": 64, "y": 1281, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.625488, "v1": 0.656738,
+		"rotate": 0, "hash": 2718658890
+	},
+	"rocket.png": {
+		"src": "rocket.png", "dst": "emojis.png",
+		"x": 128, "y": 1281, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.625488, "v1": 0.656738,
+		"rotate": 0, "hash": 952575696
+	},
+	"roller_coaster.png": {
+		"src": "roller_coaster.png", "dst": "emojis.png",
+		"x": 192, "y": 1281, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.625488, "v1": 0.656738,
+		"rotate": 0, "hash": 1710685438
+	},
+	"rooster.png": {
+		"src": "rooster.png", "dst": "emojis.png",
+		"x": 256, "y": 1281, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.625488, "v1": 0.656738,
+		"rotate": 0, "hash": 2426356682
+	},
+	"rose.png": {
+		"src": "rose.png", "dst": "emojis.png",
+		"x": 320, "y": 1281, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.625488, "v1": 0.656738,
+		"rotate": 0, "hash": 1378862783
+	},
+	"rotating_light.png": {
+		"src": "rotating_light.png", "dst": "emojis.png",
+		"x": 384, "y": 1281, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.625488, "v1": 0.656738,
+		"rotate": 0, "hash": 2527594907
+	},
+	"round_pushpin.png": {
+		"src": "round_pushpin.png", "dst": "emojis.png",
+		"x": 448, "y": 1281, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.625488, "v1": 0.656738,
+		"rotate": 0, "hash": 328295198
+	},
+	"rowboat.png": {
+		"src": "rowboat.png", "dst": "emojis.png",
+		"x": 512, "y": 1281, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.625488, "v1": 0.656738,
+		"rotate": 0, "hash": 1881268796
+	},
+	"ru.png": {
+		"src": "ru.png", "dst": "emojis.png",
+		"x": 576, "y": 1281, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.625488, "v1": 0.656738,
+		"rotate": 0, "hash": 2606985925
+	},
+	"rugby_football.png": {
+		"src": "rugby_football.png", "dst": "emojis.png",
+		"x": 640, "y": 1281, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.625488, "v1": 0.656738,
+		"rotate": 0, "hash": 159450385
+	},
+	"runner.png": {
+		"src": "runner.png", "dst": "emojis.png",
+		"x": 704, "y": 1281, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.625488, "v1": 0.656738,
+		"rotate": 0, "hash": 3116376090
+	},
+	"running.png": {
+		"src": "running.png", "dst": "emojis.png",
+		"x": 768, "y": 1281, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.625488, "v1": 0.656738,
+		"rotate": 0, "hash": 3724499929
+	},
+	"running_shirt_with_sash.png": {
+		"src": "running_shirt_with_sash.png", "dst": "emojis.png",
+		"x": 832, "y": 1281, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.625488, "v1": 0.656738,
+		"rotate": 0, "hash": 960696699
+	},
+	"sa.png": {
+		"src": "sa.png", "dst": "emojis.png",
+		"x": 896, "y": 1281, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.625488, "v1": 0.656738,
+		"rotate": 0, "hash": 585837292
+	},
+	"sagittarius.png": {
+		"src": "sagittarius.png", "dst": "emojis.png",
+		"x": 960, "y": 1281, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.625488, "v1": 0.656738,
+		"rotate": 0, "hash": 4142546236
+	},
+	"sailboat.png": {
+		"src": "sailboat.png", "dst": "emojis.png",
+		"x": 1024, "y": 1280, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.625, "v1": 0.65625,
+		"rotate": 0, "hash": 229305443
+	},
+	"sake.png": {
+		"src": "sake.png", "dst": "emojis.png",
+		"x": 1088, "y": 1280, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.625, "v1": 0.65625,
+		"rotate": 0, "hash": 4086951644
+	},
+	"sandal.png": {
+		"src": "sandal.png", "dst": "emojis.png",
+		"x": 1152, "y": 1280, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.625, "v1": 0.65625,
+		"rotate": 0, "hash": 4073294519
+	},
+	"santa.png": {
+		"src": "santa.png", "dst": "emojis.png",
+		"x": 1216, "y": 1280, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.625, "v1": 0.65625,
+		"rotate": 0, "hash": 2231615791
+	},
+	"satellite.png": {
+		"src": "satellite.png", "dst": "emojis.png",
+		"x": 1280, "y": 1280, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.625, "v1": 0.65625,
+		"rotate": 0, "hash": 3442113515
+	},
+	"satisfied.png": {
+		"src": "satisfied.png", "dst": "emojis.png",
+		"x": 1344, "y": 1280, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.625, "v1": 0.65625,
+		"rotate": 0, "hash": 3738333194
+	},
+	"saxophone.png": {
+		"src": "saxophone.png", "dst": "emojis.png",
+		"x": 1408, "y": 1280, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.625, "v1": 0.65625,
+		"rotate": 0, "hash": 1689879253
+	},
+	"school.png": {
+		"src": "school.png", "dst": "emojis.png",
+		"x": 1472, "y": 1280, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.625, "v1": 0.65625,
+		"rotate": 0, "hash": 1770737148
+	},
+	"school_satchel.png": {
+		"src": "school_satchel.png", "dst": "emojis.png",
+		"x": 1536, "y": 1280, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.625, "v1": 0.65625,
+		"rotate": 0, "hash": 1046179825
+	},
+	"scissors.png": {
+		"src": "scissors.png", "dst": "emojis.png",
+		"x": 1600, "y": 1280, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.625, "v1": 0.65625,
+		"rotate": 0, "hash": 2005972111
+	},
+	"scorpius.png": {
+		"src": "scorpius.png", "dst": "emojis.png",
+		"x": 1664, "y": 1280, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.625, "v1": 0.65625,
+		"rotate": 0, "hash": 2295117124
+	},
+	"scream.png": {
+		"src": "scream.png", "dst": "emojis.png",
+		"x": 1728, "y": 1280, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.625, "v1": 0.65625,
+		"rotate": 0, "hash": 4151232265
+	},
+	"scream_cat.png": {
+		"src": "scream_cat.png", "dst": "emojis.png",
+		"x": 1792, "y": 1280, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.625, "v1": 0.65625,
+		"rotate": 0, "hash": 1399670250
+	},
+	"scroll.png": {
+		"src": "scroll.png", "dst": "emojis.png",
+		"x": 1856, "y": 1280, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.625, "v1": 0.65625,
+		"rotate": 0, "hash": 2981971513
+	},
+	"seat.png": {
+		"src": "seat.png", "dst": "emojis.png",
+		"x": 1920, "y": 1280, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.625, "v1": 0.65625,
+		"rotate": 0, "hash": 3765985005
+	},
+	"secret.png": {
+		"src": "secret.png", "dst": "emojis.png",
+		"x": 1984, "y": 1280, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.625, "v1": 0.65625,
+		"rotate": 0, "hash": 710303140
+	},
+	"see_no_evil.png": {
+		"src": "see_no_evil.png", "dst": "emojis.png",
+		"x": 0, "y": 1345, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.656738, "v1": 0.687988,
+		"rotate": 0, "hash": 3167613904
+	},
+	"seedling.png": {
+		"src": "seedling.png", "dst": "emojis.png",
+		"x": 64, "y": 1345, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.656738, "v1": 0.687988,
+		"rotate": 0, "hash": 1409617741
+	},
+	"seven.png": {
+		"src": "seven.png", "dst": "emojis.png",
+		"x": 128, "y": 1345, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.656738, "v1": 0.687988,
+		"rotate": 0, "hash": 2619869495
+	},
+	"shaved_ice.png": {
+		"src": "shaved_ice.png", "dst": "emojis.png",
+		"x": 192, "y": 1345, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.656738, "v1": 0.687988,
+		"rotate": 0, "hash": 2869074533
+	},
+	"sheep.png": {
+		"src": "sheep.png", "dst": "emojis.png",
+		"x": 256, "y": 1345, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.656738, "v1": 0.687988,
+		"rotate": 0, "hash": 2828757249
+	},
+	"shell.png": {
+		"src": "shell.png", "dst": "emojis.png",
+		"x": 320, "y": 1345, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.656738, "v1": 0.687988,
+		"rotate": 0, "hash": 1011727348
+	},
+	"ship.png": {
+		"src": "ship.png", "dst": "emojis.png",
+		"x": 384, "y": 1345, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.656738, "v1": 0.687988,
+		"rotate": 0, "hash": 938247782
+	},
+	"shipit.png": {
+		"src": "shipit.png", "dst": "emojis.png",
+		"x": 448, "y": 1345, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.656738, "v1": 0.687988,
+		"rotate": 0, "hash": 404787939
+	},
+	"shirt.png": {
+		"src": "shirt.png", "dst": "emojis.png",
+		"x": 512, "y": 1345, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.656738, "v1": 0.687988,
+		"rotate": 0, "hash": 2828728706
+	},
+	"shit.png": {
+		"src": "shit.png", "dst": "emojis.png",
+		"x": 576, "y": 1345, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.656738, "v1": 0.687988,
+		"rotate": 0, "hash": 3724604434
+	},
+	"shoe.png": {
+		"src": "shoe.png", "dst": "emojis.png",
+		"x": 640, "y": 1345, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.656738, "v1": 0.687988,
+		"rotate": 0, "hash": 3588289619
+	},
+	"shower.png": {
+		"src": "shower.png", "dst": "emojis.png",
+		"x": 704, "y": 1345, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.656738, "v1": 0.687988,
+		"rotate": 0, "hash": 372873770
+	},
+	"signal_strength.png": {
+		"src": "signal_strength.png", "dst": "emojis.png",
+		"x": 768, "y": 1345, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.656738, "v1": 0.687988,
+		"rotate": 0, "hash": 2304127746
+	},
+	"six.png": {
+		"src": "six.png", "dst": "emojis.png",
+		"x": 832, "y": 1345, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.656738, "v1": 0.687988,
+		"rotate": 0, "hash": 916282890
+	},
+	"six_pointed_star.png": {
+		"src": "six_pointed_star.png", "dst": "emojis.png",
+		"x": 896, "y": 1345, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.656738, "v1": 0.687988,
+		"rotate": 0, "hash": 595030377
+	},
+	"ski.png": {
+		"src": "ski.png", "dst": "emojis.png",
+		"x": 960, "y": 1345, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.656738, "v1": 0.687988,
+		"rotate": 0, "hash": 1674642623
+	},
+	"skull.png": {
+		"src": "skull.png", "dst": "emojis.png",
+		"x": 1024, "y": 1344, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.65625, "v1": 0.6875,
+		"rotate": 0, "hash": 1191751147
+	},
+	"sleeping.png": {
+		"src": "sleeping.png", "dst": "emojis.png",
+		"x": 1088, "y": 1344, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.65625, "v1": 0.6875,
+		"rotate": 0, "hash": 1246345765
+	},
+	"sleepy.png": {
+		"src": "sleepy.png", "dst": "emojis.png",
+		"x": 1152, "y": 1344, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.65625, "v1": 0.6875,
+		"rotate": 0, "hash": 2816324322
+	},
+	"slot_machine.png": {
+		"src": "slot_machine.png", "dst": "emojis.png",
+		"x": 1216, "y": 1344, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.65625, "v1": 0.6875,
+		"rotate": 0, "hash": 721628834
+	},
+	"small_blue_diamond.png": {
+		"src": "small_blue_diamond.png", "dst": "emojis.png",
+		"x": 1280, "y": 1344, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.65625, "v1": 0.6875,
+		"rotate": 0, "hash": 4146755107
+	},
+	"small_orange_diamond.png": {
+		"src": "small_orange_diamond.png", "dst": "emojis.png",
+		"x": 1344, "y": 1344, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.65625, "v1": 0.6875,
+		"rotate": 0, "hash": 2232662137
+	},
+	"small_red_triangle.png": {
+		"src": "small_red_triangle.png", "dst": "emojis.png",
+		"x": 1408, "y": 1344, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.65625, "v1": 0.6875,
+		"rotate": 0, "hash": 4180859232
+	},
+	"small_red_triangle_down.png": {
+		"src": "small_red_triangle_down.png", "dst": "emojis.png",
+		"x": 1472, "y": 1344, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.65625, "v1": 0.6875,
+		"rotate": 0, "hash": 3459709199
+	},
+	"smile.png": {
+		"src": "smile.png", "dst": "emojis.png",
+		"x": 1536, "y": 1344, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.65625, "v1": 0.6875,
+		"rotate": 0, "hash": 343648086
+	},
+	"smile_cat.png": {
+		"src": "smile_cat.png", "dst": "emojis.png",
+		"x": 1600, "y": 1344, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.65625, "v1": 0.6875,
+		"rotate": 0, "hash": 2436584561
+	},
+	"smiley.png": {
+		"src": "smiley.png", "dst": "emojis.png",
+		"x": 1664, "y": 1344, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.65625, "v1": 0.6875,
+		"rotate": 0, "hash": 2105570627
+	},
+	"smiley_cat.png": {
+		"src": "smiley_cat.png", "dst": "emojis.png",
+		"x": 1728, "y": 1344, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.65625, "v1": 0.6875,
+		"rotate": 0, "hash": 2577597804
+	},
+	"smiling_imp.png": {
+		"src": "smiling_imp.png", "dst": "emojis.png",
+		"x": 1792, "y": 1344, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.65625, "v1": 0.6875,
+		"rotate": 0, "hash": 2920869012
+	},
+	"smirk.png": {
+		"src": "smirk.png", "dst": "emojis.png",
+		"x": 1856, "y": 1344, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.65625, "v1": 0.6875,
+		"rotate": 0, "hash": 3061616338
+	},
+	"smirk_cat.png": {
+		"src": "smirk_cat.png", "dst": "emojis.png",
+		"x": 1920, "y": 1344, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.65625, "v1": 0.6875,
+		"rotate": 0, "hash": 614725165
+	},
+	"smoking.png": {
+		"src": "smoking.png", "dst": "emojis.png",
+		"x": 1984, "y": 1344, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.65625, "v1": 0.6875,
+		"rotate": 0, "hash": 954912452
+	},
+	"snail.png": {
+		"src": "snail.png", "dst": "emojis.png",
+		"x": 0, "y": 1409, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.687988, "v1": 0.719238,
+		"rotate": 0, "hash": 4130154571
+	},
+	"snake.png": {
+		"src": "snake.png", "dst": "emojis.png",
+		"x": 64, "y": 1409, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.687988, "v1": 0.719238,
+		"rotate": 0, "hash": 591488922
+	},
+	"snowboarder.png": {
+		"src": "snowboarder.png", "dst": "emojis.png",
+		"x": 128, "y": 1409, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.687988, "v1": 0.719238,
+		"rotate": 0, "hash": 1604315968
+	},
+	"snowflake.png": {
+		"src": "snowflake.png", "dst": "emojis.png",
+		"x": 192, "y": 1409, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.687988, "v1": 0.719238,
+		"rotate": 0, "hash": 1384958894
+	},
+	"snowman.png": {
+		"src": "snowman.png", "dst": "emojis.png",
+		"x": 256, "y": 1409, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.687988, "v1": 0.719238,
+		"rotate": 0, "hash": 2070172631
+	},
+	"sob.png": {
+		"src": "sob.png", "dst": "emojis.png",
+		"x": 320, "y": 1409, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.687988, "v1": 0.719238,
+		"rotate": 0, "hash": 794168054
+	},
+	"soccer.png": {
+		"src": "soccer.png", "dst": "emojis.png",
+		"x": 384, "y": 1409, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.687988, "v1": 0.719238,
+		"rotate": 0, "hash": 1155334807
+	},
+	"soon.png": {
+		"src": "soon.png", "dst": "emojis.png",
+		"x": 448, "y": 1409, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.687988, "v1": 0.719238,
+		"rotate": 0, "hash": 3280671891
+	},
+	"sos.png": {
+		"src": "sos.png", "dst": "emojis.png",
+		"x": 512, "y": 1409, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.687988, "v1": 0.719238,
+		"rotate": 0, "hash": 2037852665
+	},
+	"sound.png": {
+		"src": "sound.png", "dst": "emojis.png",
+		"x": 576, "y": 1409, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.687988, "v1": 0.719238,
+		"rotate": 0, "hash": 4029423905
+	},
+	"space_invader.png": {
+		"src": "space_invader.png", "dst": "emojis.png",
+		"x": 640, "y": 1409, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.687988, "v1": 0.719238,
+		"rotate": 0, "hash": 179190262
+	},
+	"spades.png": {
+		"src": "spades.png", "dst": "emojis.png",
+		"x": 704, "y": 1409, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.687988, "v1": 0.719238,
+		"rotate": 0, "hash": 80975378
+	},
+	"spaghetti.png": {
+		"src": "spaghetti.png", "dst": "emojis.png",
+		"x": 768, "y": 1409, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.687988, "v1": 0.719238,
+		"rotate": 0, "hash": 3514383209
+	},
+	"sparkler.png": {
+		"src": "sparkler.png", "dst": "emojis.png",
+		"x": 832, "y": 1409, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.687988, "v1": 0.719238,
+		"rotate": 0, "hash": 1324272864
+	},
+	"sparkles.png": {
+		"src": "sparkles.png", "dst": "emojis.png",
+		"x": 896, "y": 1409, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.687988, "v1": 0.719238,
+		"rotate": 0, "hash": 853687891
+	},
+	"sparkling_heart.png": {
+		"src": "sparkling_heart.png", "dst": "emojis.png",
+		"x": 960, "y": 1409, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.687988, "v1": 0.719238,
+		"rotate": 0, "hash": 3579405364
+	},
+	"speak_no_evil.png": {
+		"src": "speak_no_evil.png", "dst": "emojis.png",
+		"x": 1024, "y": 1408, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.6875, "v1": 0.71875,
+		"rotate": 0, "hash": 2731580633
+	},
+	"speaker.png": {
+		"src": "speaker.png", "dst": "emojis.png",
+		"x": 1088, "y": 1408, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.6875, "v1": 0.71875,
+		"rotate": 0, "hash": 1277923907
+	},
+	"speech_balloon.png": {
+		"src": "speech_balloon.png", "dst": "emojis.png",
+		"x": 1152, "y": 1408, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.6875, "v1": 0.71875,
+		"rotate": 0, "hash": 2114697750
+	},
+	"speedboat.png": {
+		"src": "speedboat.png", "dst": "emojis.png",
+		"x": 1216, "y": 1408, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.6875, "v1": 0.71875,
+		"rotate": 0, "hash": 3947877207
+	},
+	"squirrel.png": {
+		"src": "squirrel.png", "dst": "emojis.png",
+		"x": 1280, "y": 1408, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.6875, "v1": 0.71875,
+		"rotate": 0, "hash": 758570647
+	},
+	"star.png": {
+		"src": "star.png", "dst": "emojis.png",
+		"x": 1344, "y": 1408, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.6875, "v1": 0.71875,
+		"rotate": 0, "hash": 3146725252
+	},
+	"star2.png": {
+		"src": "star2.png", "dst": "emojis.png",
+		"x": 1408, "y": 1408, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.6875, "v1": 0.71875,
+		"rotate": 0, "hash": 312801548
+	},
+	"stars.png": {
+		"src": "stars.png", "dst": "emojis.png",
+		"x": 1472, "y": 1408, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.6875, "v1": 0.71875,
+		"rotate": 0, "hash": 1520354783
+	},
+	"station.png": {
+		"src": "station.png", "dst": "emojis.png",
+		"x": 1536, "y": 1408, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.6875, "v1": 0.71875,
+		"rotate": 0, "hash": 2287363570
+	},
+	"statue_of_liberty.png": {
+		"src": "statue_of_liberty.png", "dst": "emojis.png",
+		"x": 1600, "y": 1408, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.6875, "v1": 0.71875,
+		"rotate": 0, "hash": 2960451094
+	},
+	"steam_locomotive.png": {
+		"src": "steam_locomotive.png", "dst": "emojis.png",
+		"x": 1664, "y": 1408, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.6875, "v1": 0.71875,
+		"rotate": 0, "hash": 598349116
+	},
+	"stew.png": {
+		"src": "stew.png", "dst": "emojis.png",
+		"x": 1728, "y": 1408, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.6875, "v1": 0.71875,
+		"rotate": 0, "hash": 687963631
+	},
+	"straight_ruler.png": {
+		"src": "straight_ruler.png", "dst": "emojis.png",
+		"x": 1792, "y": 1408, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.6875, "v1": 0.71875,
+		"rotate": 0, "hash": 3552917945
+	},
+	"strawberry.png": {
+		"src": "strawberry.png", "dst": "emojis.png",
+		"x": 1856, "y": 1408, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.6875, "v1": 0.71875,
+		"rotate": 0, "hash": 2012708873
+	},
+	"stuck_out_tongue.png": {
+		"src": "stuck_out_tongue.png", "dst": "emojis.png",
+		"x": 1920, "y": 1408, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.6875, "v1": 0.71875,
+		"rotate": 0, "hash": 3894320192
+	},
+	"stuck_out_tongue_closed_eyes.png": {
+		"src": "stuck_out_tongue_closed_eyes.png", "dst": "emojis.png",
+		"x": 1984, "y": 1408, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.6875, "v1": 0.71875,
+		"rotate": 0, "hash": 1848056908
+	},
+	"stuck_out_tongue_winking_eye.png": {
+		"src": "stuck_out_tongue_winking_eye.png", "dst": "emojis.png",
+		"x": 0, "y": 1473, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.719238, "v1": 0.750488,
+		"rotate": 0, "hash": 3182963096
+	},
+	"sun_with_face.png": {
+		"src": "sun_with_face.png", "dst": "emojis.png",
+		"x": 64, "y": 1473, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.719238, "v1": 0.750488,
+		"rotate": 0, "hash": 814359219
+	},
+	"sunflower.png": {
+		"src": "sunflower.png", "dst": "emojis.png",
+		"x": 128, "y": 1473, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.719238, "v1": 0.750488,
+		"rotate": 0, "hash": 2713727323
+	},
+	"sunglasses.png": {
+		"src": "sunglasses.png", "dst": "emojis.png",
+		"x": 192, "y": 1473, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.719238, "v1": 0.750488,
+		"rotate": 0, "hash": 1218233486
+	},
+	"sunny.png": {
+		"src": "sunny.png", "dst": "emojis.png",
+		"x": 256, "y": 1473, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.719238, "v1": 0.750488,
+		"rotate": 0, "hash": 2204146553
+	},
+	"sunrise.png": {
+		"src": "sunrise.png", "dst": "emojis.png",
+		"x": 320, "y": 1473, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.719238, "v1": 0.750488,
+		"rotate": 0, "hash": 3236403441
+	},
+	"sunrise_over_mountains.png": {
+		"src": "sunrise_over_mountains.png", "dst": "emojis.png",
+		"x": 384, "y": 1473, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.719238, "v1": 0.750488,
+		"rotate": 0, "hash": 219843809
+	},
+	"surfer.png": {
+		"src": "surfer.png", "dst": "emojis.png",
+		"x": 448, "y": 1473, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.719238, "v1": 0.750488,
+		"rotate": 0, "hash": 4187975155
+	},
+	"sushi.png": {
+		"src": "sushi.png", "dst": "emojis.png",
+		"x": 512, "y": 1473, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.719238, "v1": 0.750488,
+		"rotate": 0, "hash": 3572269184
+	},
+	"suspect.png": {
+		"src": "suspect.png", "dst": "emojis.png",
+		"x": 576, "y": 1473, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.719238, "v1": 0.750488,
+		"rotate": 0, "hash": 1262334951
+	},
+	"suspension_railway.png": {
+		"src": "suspension_railway.png", "dst": "emojis.png",
+		"x": 640, "y": 1473, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.719238, "v1": 0.750488,
+		"rotate": 0, "hash": 678954033
+	},
+	"sweat.png": {
+		"src": "sweat.png", "dst": "emojis.png",
+		"x": 704, "y": 1473, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.719238, "v1": 0.750488,
+		"rotate": 0, "hash": 717143162
+	},
+	"sweat_drops.png": {
+		"src": "sweat_drops.png", "dst": "emojis.png",
+		"x": 768, "y": 1473, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.719238, "v1": 0.750488,
+		"rotate": 0, "hash": 2208396999
+	},
+	"sweat_smile.png": {
+		"src": "sweat_smile.png", "dst": "emojis.png",
+		"x": 832, "y": 1473, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.719238, "v1": 0.750488,
+		"rotate": 0, "hash": 2452132869
+	},
+	"sweet_potato.png": {
+		"src": "sweet_potato.png", "dst": "emojis.png",
+		"x": 896, "y": 1473, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.719238, "v1": 0.750488,
+		"rotate": 0, "hash": 1848746914
+	},
+	"swimmer.png": {
+		"src": "swimmer.png", "dst": "emojis.png",
+		"x": 960, "y": 1473, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.719238, "v1": 0.750488,
+		"rotate": 0, "hash": 3385114814
+	},
+	"symbols.png": {
+		"src": "symbols.png", "dst": "emojis.png",
+		"x": 1024, "y": 1472, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.71875, "v1": 0.75,
+		"rotate": 0, "hash": 295424191
+	},
+	"syringe.png": {
+		"src": "syringe.png", "dst": "emojis.png",
+		"x": 1088, "y": 1472, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.71875, "v1": 0.75,
+		"rotate": 0, "hash": 1997337327
+	},
+	"tada.png": {
+		"src": "tada.png", "dst": "emojis.png",
+		"x": 1152, "y": 1472, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.71875, "v1": 0.75,
+		"rotate": 0, "hash": 675349984
+	},
+	"tanabata_tree.png": {
+		"src": "tanabata_tree.png", "dst": "emojis.png",
+		"x": 1216, "y": 1472, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.71875, "v1": 0.75,
+		"rotate": 0, "hash": 1652083883
+	},
+	"tangerine.png": {
+		"src": "tangerine.png", "dst": "emojis.png",
+		"x": 1280, "y": 1472, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.71875, "v1": 0.75,
+		"rotate": 0, "hash": 423202073
+	},
+	"taurus.png": {
+		"src": "taurus.png", "dst": "emojis.png",
+		"x": 1344, "y": 1472, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.71875, "v1": 0.75,
+		"rotate": 0, "hash": 2366467608
+	},
+	"taxi.png": {
+		"src": "taxi.png", "dst": "emojis.png",
+		"x": 1408, "y": 1472, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.71875, "v1": 0.75,
+		"rotate": 0, "hash": 16712796
+	},
+	"tea.png": {
+		"src": "tea.png", "dst": "emojis.png",
+		"x": 1472, "y": 1472, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.71875, "v1": 0.75,
+		"rotate": 0, "hash": 923458268
+	},
+	"telephone.png": {
+		"src": "telephone.png", "dst": "emojis.png",
+		"x": 1536, "y": 1472, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.71875, "v1": 0.75,
+		"rotate": 0, "hash": 996284958
+	},
+	"telephone_receiver.png": {
+		"src": "telephone_receiver.png", "dst": "emojis.png",
+		"x": 1600, "y": 1472, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.71875, "v1": 0.75,
+		"rotate": 0, "hash": 4029665536
+	},
+	"telescope.png": {
+		"src": "telescope.png", "dst": "emojis.png",
+		"x": 1664, "y": 1472, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.71875, "v1": 0.75,
+		"rotate": 0, "hash": 150496754
+	},
+	"tennis.png": {
+		"src": "tennis.png", "dst": "emojis.png",
+		"x": 1728, "y": 1472, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.71875, "v1": 0.75,
+		"rotate": 0, "hash": 927794211
+	},
+	"tent.png": {
+		"src": "tent.png", "dst": "emojis.png",
+		"x": 1792, "y": 1472, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.71875, "v1": 0.75,
+		"rotate": 0, "hash": 3306661253
+	},
+	"thought_balloon.png": {
+		"src": "thought_balloon.png", "dst": "emojis.png",
+		"x": 1856, "y": 1472, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.71875, "v1": 0.75,
+		"rotate": 0, "hash": 3989977387
+	},
+	"three.png": {
+		"src": "three.png", "dst": "emojis.png",
+		"x": 1920, "y": 1472, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.71875, "v1": 0.75,
+		"rotate": 0, "hash": 2047895490
+	},
+	"thumbsdown.png": {
+		"src": "thumbsdown.png", "dst": "emojis.png",
+		"x": 1984, "y": 1472, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.71875, "v1": 0.75,
+		"rotate": 0, "hash": 312590249
+	},
+	"thumbsup.png": {
+		"src": "thumbsup.png", "dst": "emojis.png",
+		"x": 0, "y": 1537, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.750488, "v1": 0.781738,
+		"rotate": 0, "hash": 1882317208
+	},
+	"ticket.png": {
+		"src": "ticket.png", "dst": "emojis.png",
+		"x": 64, "y": 1537, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.750488, "v1": 0.781738,
+		"rotate": 0, "hash": 1614110720
+	},
+	"tiger.png": {
+		"src": "tiger.png", "dst": "emojis.png",
+		"x": 128, "y": 1537, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.750488, "v1": 0.781738,
+		"rotate": 0, "hash": 233607709
+	},
+	"tiger2.png": {
+		"src": "tiger2.png", "dst": "emojis.png",
+		"x": 192, "y": 1537, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.750488, "v1": 0.781738,
+		"rotate": 0, "hash": 1344106743
+	},
+	"tired_face.png": {
+		"src": "tired_face.png", "dst": "emojis.png",
+		"x": 256, "y": 1537, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.750488, "v1": 0.781738,
+		"rotate": 0, "hash": 604065262
+	},
+	"tm.png": {
+		"src": "tm.png", "dst": "emojis.png",
+		"x": 320, "y": 1537, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.750488, "v1": 0.781738,
+		"rotate": 0, "hash": 2738678603
+	},
+	"toilet.png": {
+		"src": "toilet.png", "dst": "emojis.png",
+		"x": 384, "y": 1537, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.750488, "v1": 0.781738,
+		"rotate": 0, "hash": 3621066253
+	},
+	"tokyo_tower.png": {
+		"src": "tokyo_tower.png", "dst": "emojis.png",
+		"x": 448, "y": 1537, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.750488, "v1": 0.781738,
+		"rotate": 0, "hash": 1163875694
+	},
+	"tomato.png": {
+		"src": "tomato.png", "dst": "emojis.png",
+		"x": 512, "y": 1537, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.750488, "v1": 0.781738,
+		"rotate": 0, "hash": 3969477058
+	},
+	"tongue.png": {
+		"src": "tongue.png", "dst": "emojis.png",
+		"x": 576, "y": 1537, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.750488, "v1": 0.781738,
+		"rotate": 0, "hash": 321742712
+	},
+	"top.png": {
+		"src": "top.png", "dst": "emojis.png",
+		"x": 640, "y": 1537, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.750488, "v1": 0.781738,
+		"rotate": 0, "hash": 1088835433
+	},
+	"tophat.png": {
+		"src": "tophat.png", "dst": "emojis.png",
+		"x": 704, "y": 1537, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.750488, "v1": 0.781738,
+		"rotate": 0, "hash": 3832548380
+	},
+	"tractor.png": {
+		"src": "tractor.png", "dst": "emojis.png",
+		"x": 768, "y": 1537, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.750488, "v1": 0.781738,
+		"rotate": 0, "hash": 1405350877
+	},
+	"traffic_light.png": {
+		"src": "traffic_light.png", "dst": "emojis.png",
+		"x": 832, "y": 1537, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.750488, "v1": 0.781738,
+		"rotate": 0, "hash": 164123904
+	},
+	"train.png": {
+		"src": "train.png", "dst": "emojis.png",
+		"x": 896, "y": 1537, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.750488, "v1": 0.781738,
+		"rotate": 0, "hash": 3976885404
+	},
+	"train2.png": {
+		"src": "train2.png", "dst": "emojis.png",
+		"x": 960, "y": 1537, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.750488, "v1": 0.781738,
+		"rotate": 0, "hash": 2939103924
+	},
+	"tram.png": {
+		"src": "tram.png", "dst": "emojis.png",
+		"x": 1024, "y": 1536, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.75, "v1": 0.78125,
+		"rotate": 0, "hash": 3293197124
+	},
+	"triangular_flag_on_post.png": {
+		"src": "triangular_flag_on_post.png", "dst": "emojis.png",
+		"x": 1088, "y": 1536, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.75, "v1": 0.78125,
+		"rotate": 0, "hash": 2845813549
+	},
+	"triangular_ruler.png": {
+		"src": "triangular_ruler.png", "dst": "emojis.png",
+		"x": 1152, "y": 1536, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.75, "v1": 0.78125,
+		"rotate": 0, "hash": 3202513278
+	},
+	"trident.png": {
+		"src": "trident.png", "dst": "emojis.png",
+		"x": 1216, "y": 1536, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.75, "v1": 0.78125,
+		"rotate": 0, "hash": 3687577402
+	},
+	"triumph.png": {
+		"src": "triumph.png", "dst": "emojis.png",
+		"x": 1280, "y": 1536, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.75, "v1": 0.78125,
+		"rotate": 0, "hash": 1844502041
+	},
+	"trolleybus.png": {
+		"src": "trolleybus.png", "dst": "emojis.png",
+		"x": 1344, "y": 1536, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.75, "v1": 0.78125,
+		"rotate": 0, "hash": 1864663325
+	},
+	"trollface.png": {
+		"src": "trollface.png", "dst": "emojis.png",
+		"x": 1408, "y": 1536, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.75, "v1": 0.78125,
+		"rotate": 0, "hash": 4065233000
+	},
+	"trophy.png": {
+		"src": "trophy.png", "dst": "emojis.png",
+		"x": 1472, "y": 1536, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.75, "v1": 0.78125,
+		"rotate": 0, "hash": 2503020518
+	},
+	"tropical_drink.png": {
+		"src": "tropical_drink.png", "dst": "emojis.png",
+		"x": 1536, "y": 1536, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.75, "v1": 0.78125,
+		"rotate": 0, "hash": 1992220393
+	},
+	"tropical_fish.png": {
+		"src": "tropical_fish.png", "dst": "emojis.png",
+		"x": 1600, "y": 1536, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.75, "v1": 0.78125,
+		"rotate": 0, "hash": 1465073937
+	},
+	"truck.png": {
+		"src": "truck.png", "dst": "emojis.png",
+		"x": 1664, "y": 1536, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.75, "v1": 0.78125,
+		"rotate": 0, "hash": 343890253
+	},
+	"trumpet.png": {
+		"src": "trumpet.png", "dst": "emojis.png",
+		"x": 1728, "y": 1536, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.75, "v1": 0.78125,
+		"rotate": 0, "hash": 3082186303
+	},
+	"tshirt.png": {
+		"src": "tshirt.png", "dst": "emojis.png",
+		"x": 1792, "y": 1536, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.75, "v1": 0.78125,
+		"rotate": 0, "hash": 1376186432
+	},
+	"tulip.png": {
+		"src": "tulip.png", "dst": "emojis.png",
+		"x": 1856, "y": 1536, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.75, "v1": 0.78125,
+		"rotate": 0, "hash": 3550543338
+	},
+	"turtle.png": {
+		"src": "turtle.png", "dst": "emojis.png",
+		"x": 1920, "y": 1536, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.75, "v1": 0.78125,
+		"rotate": 0, "hash": 3870615686
+	},
+	"tv.png": {
+		"src": "tv.png", "dst": "emojis.png",
+		"x": 1984, "y": 1536, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.75, "v1": 0.78125,
+		"rotate": 0, "hash": 3070304662
+	},
+	"twisted_rightwards_arrows.png": {
+		"src": "twisted_rightwards_arrows.png", "dst": "emojis.png",
+		"x": 0, "y": 1601, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.781738, "v1": 0.812988,
+		"rotate": 0, "hash": 2093549251
+	},
+	"two.png": {
+		"src": "two.png", "dst": "emojis.png",
+		"x": 64, "y": 1601, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.781738, "v1": 0.812988,
+		"rotate": 0, "hash": 1094032604
+	},
+	"two_hearts.png": {
+		"src": "two_hearts.png", "dst": "emojis.png",
+		"x": 128, "y": 1601, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.781738, "v1": 0.812988,
+		"rotate": 0, "hash": 560172374
+	},
+	"two_men_holding_hands.png": {
+		"src": "two_men_holding_hands.png", "dst": "emojis.png",
+		"x": 192, "y": 1601, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.781738, "v1": 0.812988,
+		"rotate": 0, "hash": 1801259806
+	},
+	"two_women_holding_hands.png": {
+		"src": "two_women_holding_hands.png", "dst": "emojis.png",
+		"x": 256, "y": 1601, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.781738, "v1": 0.812988,
+		"rotate": 0, "hash": 2652248500
+	},
+	"u5272.png": {
+		"src": "u5272.png", "dst": "emojis.png",
+		"x": 320, "y": 1601, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.781738, "v1": 0.812988,
+		"rotate": 0, "hash": 1245556367
+	},
+	"u5408.png": {
+		"src": "u5408.png", "dst": "emojis.png",
+		"x": 384, "y": 1601, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.781738, "v1": 0.812988,
+		"rotate": 0, "hash": 1040112612
+	},
+	"u55b6.png": {
+		"src": "u55b6.png", "dst": "emojis.png",
+		"x": 448, "y": 1601, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.781738, "v1": 0.812988,
+		"rotate": 0, "hash": 997140095
+	},
+	"u6307.png": {
+		"src": "u6307.png", "dst": "emojis.png",
+		"x": 512, "y": 1601, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.781738, "v1": 0.812988,
+		"rotate": 0, "hash": 3851689483
+	},
+	"u6708.png": {
+		"src": "u6708.png", "dst": "emojis.png",
+		"x": 576, "y": 1601, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.781738, "v1": 0.812988,
+		"rotate": 0, "hash": 178371814
+	},
+	"u6709.png": {
+		"src": "u6709.png", "dst": "emojis.png",
+		"x": 640, "y": 1601, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.781738, "v1": 0.812988,
+		"rotate": 0, "hash": 556015353
+	},
+	"u6e80.png": {
+		"src": "u6e80.png", "dst": "emojis.png",
+		"x": 704, "y": 1601, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.781738, "v1": 0.812988,
+		"rotate": 0, "hash": 104450624
+	},
+	"u7121.png": {
+		"src": "u7121.png", "dst": "emojis.png",
+		"x": 768, "y": 1601, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.781738, "v1": 0.812988,
+		"rotate": 0, "hash": 1693190484
+	},
+	"u7533.png": {
+		"src": "u7533.png", "dst": "emojis.png",
+		"x": 832, "y": 1601, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.781738, "v1": 0.812988,
+		"rotate": 0, "hash": 1577639991
+	},
+	"u7981.png": {
+		"src": "u7981.png", "dst": "emojis.png",
+		"x": 896, "y": 1601, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.781738, "v1": 0.812988,
+		"rotate": 0, "hash": 1735702838
+	},
+	"u7a7a.png": {
+		"src": "u7a7a.png", "dst": "emojis.png",
+		"x": 960, "y": 1601, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.781738, "v1": 0.812988,
+		"rotate": 0, "hash": 1170251109
+	},
+	"uk.png": {
+		"src": "uk.png", "dst": "emojis.png",
+		"x": 1024, "y": 1600, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.78125, "v1": 0.8125,
+		"rotate": 0, "hash": 2269318548
+	},
+	"umbrella.png": {
+		"src": "umbrella.png", "dst": "emojis.png",
+		"x": 1088, "y": 1600, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.78125, "v1": 0.8125,
+		"rotate": 0, "hash": 2996006400
+	},
+	"unamused.png": {
+		"src": "unamused.png", "dst": "emojis.png",
+		"x": 1152, "y": 1600, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.78125, "v1": 0.8125,
+		"rotate": 0, "hash": 1623328676
+	},
+	"underage.png": {
+		"src": "underage.png", "dst": "emojis.png",
+		"x": 1216, "y": 1600, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.78125, "v1": 0.8125,
+		"rotate": 0, "hash": 3795079233
+	},
+	"unlock.png": {
+		"src": "unlock.png", "dst": "emojis.png",
+		"x": 1280, "y": 1600, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.78125, "v1": 0.8125,
+		"rotate": 0, "hash": 2566141392
+	},
+	"up.png": {
+		"src": "up.png", "dst": "emojis.png",
+		"x": 1344, "y": 1600, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.78125, "v1": 0.8125,
+		"rotate": 0, "hash": 374215109
+	},
+	"us.png": {
+		"src": "us.png", "dst": "emojis.png",
+		"x": 1408, "y": 1600, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.78125, "v1": 0.8125,
+		"rotate": 0, "hash": 1539403372
+	},
+	"v.png": {
+		"src": "v.png", "dst": "emojis.png",
+		"x": 1472, "y": 1600, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.78125, "v1": 0.8125,
+		"rotate": 0, "hash": 390869500
+	},
+	"vertical_traffic_light.png": {
+		"src": "vertical_traffic_light.png", "dst": "emojis.png",
+		"x": 1536, "y": 1600, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.78125, "v1": 0.8125,
+		"rotate": 0, "hash": 1354217203
+	},
+	"vhs.png": {
+		"src": "vhs.png", "dst": "emojis.png",
+		"x": 1600, "y": 1600, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.78125, "v1": 0.8125,
+		"rotate": 0, "hash": 1063341477
+	},
+	"vibration_mode.png": {
+		"src": "vibration_mode.png", "dst": "emojis.png",
+		"x": 1664, "y": 1600, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.78125, "v1": 0.8125,
+		"rotate": 0, "hash": 928526044
+	},
+	"video_camera.png": {
+		"src": "video_camera.png", "dst": "emojis.png",
+		"x": 1728, "y": 1600, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.78125, "v1": 0.8125,
+		"rotate": 0, "hash": 1857534755
+	},
+	"video_game.png": {
+		"src": "video_game.png", "dst": "emojis.png",
+		"x": 1792, "y": 1600, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.78125, "v1": 0.8125,
+		"rotate": 0, "hash": 2251057858
+	},
+	"violin.png": {
+		"src": "violin.png", "dst": "emojis.png",
+		"x": 1856, "y": 1600, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.78125, "v1": 0.8125,
+		"rotate": 0, "hash": 3142436405
+	},
+	"virgo.png": {
+		"src": "virgo.png", "dst": "emojis.png",
+		"x": 1920, "y": 1600, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.78125, "v1": 0.8125,
+		"rotate": 0, "hash": 2820266385
+	},
+	"volcano.png": {
+		"src": "volcano.png", "dst": "emojis.png",
+		"x": 1984, "y": 1600, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.78125, "v1": 0.8125,
+		"rotate": 0, "hash": 3842846360
+	},
+	"vs.png": {
+		"src": "vs.png", "dst": "emojis.png",
+		"x": 0, "y": 1665, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.812988, "v1": 0.844238,
+		"rotate": 0, "hash": 36827751
+	},
+	"walking.png": {
+		"src": "walking.png", "dst": "emojis.png",
+		"x": 64, "y": 1665, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.812988, "v1": 0.844238,
+		"rotate": 0, "hash": 523172893
+	},
+	"waning_crescent_moon.png": {
+		"src": "waning_crescent_moon.png", "dst": "emojis.png",
+		"x": 128, "y": 1665, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.812988, "v1": 0.844238,
+		"rotate": 0, "hash": 3244829116
+	},
+	"waning_gibbous_moon.png": {
+		"src": "waning_gibbous_moon.png", "dst": "emojis.png",
+		"x": 192, "y": 1665, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.812988, "v1": 0.844238,
+		"rotate": 0, "hash": 1877504654
+	},
+	"warning.png": {
+		"src": "warning.png", "dst": "emojis.png",
+		"x": 256, "y": 1665, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.812988, "v1": 0.844238,
+		"rotate": 0, "hash": 3198343990
+	},
+	"watch.png": {
+		"src": "watch.png", "dst": "emojis.png",
+		"x": 320, "y": 1665, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.812988, "v1": 0.844238,
+		"rotate": 0, "hash": 2003826221
+	},
+	"water_buffalo.png": {
+		"src": "water_buffalo.png", "dst": "emojis.png",
+		"x": 384, "y": 1665, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.812988, "v1": 0.844238,
+		"rotate": 0, "hash": 4187887923
+	},
+	"watermelon.png": {
+		"src": "watermelon.png", "dst": "emojis.png",
+		"x": 448, "y": 1665, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.812988, "v1": 0.844238,
+		"rotate": 0, "hash": 3139876190
+	},
+	"wave.png": {
+		"src": "wave.png", "dst": "emojis.png",
+		"x": 512, "y": 1665, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.812988, "v1": 0.844238,
+		"rotate": 0, "hash": 1566584545
+	},
+	"wavy_dash.png": {
+		"src": "wavy_dash.png", "dst": "emojis.png",
+		"x": 576, "y": 1665, "w": 64, "h": 64,
+		"u0": 0.5625, "v0": 0.625, "u1": 0.812988, "v1": 0.844238,
+		"rotate": 0, "hash": 1211150376
+	},
+	"waxing_crescent_moon.png": {
+		"src": "waxing_crescent_moon.png", "dst": "emojis.png",
+		"x": 640, "y": 1665, "w": 64, "h": 64,
+		"u0": 0.625, "v0": 0.6875, "u1": 0.812988, "v1": 0.844238,
+		"rotate": 0, "hash": 2902244242
+	},
+	"waxing_gibbous_moon.png": {
+		"src": "waxing_gibbous_moon.png", "dst": "emojis.png",
+		"x": 704, "y": 1665, "w": 64, "h": 64,
+		"u0": 0.6875, "v0": 0.75, "u1": 0.812988, "v1": 0.844238,
+		"rotate": 0, "hash": 3046197744
+	},
+	"wc.png": {
+		"src": "wc.png", "dst": "emojis.png",
+		"x": 768, "y": 1665, "w": 64, "h": 64,
+		"u0": 0.75, "v0": 0.8125, "u1": 0.812988, "v1": 0.844238,
+		"rotate": 0, "hash": 1961674262
+	},
+	"weary.png": {
+		"src": "weary.png", "dst": "emojis.png",
+		"x": 832, "y": 1665, "w": 64, "h": 64,
+		"u0": 0.8125, "v0": 0.875, "u1": 0.812988, "v1": 0.844238,
+		"rotate": 0, "hash": 1837704000
+	},
+	"wedding.png": {
+		"src": "wedding.png", "dst": "emojis.png",
+		"x": 896, "y": 1665, "w": 64, "h": 64,
+		"u0": 0.875, "v0": 0.9375, "u1": 0.812988, "v1": 0.844238,
+		"rotate": 0, "hash": 2938902302
+	},
+	"whale.png": {
+		"src": "whale.png", "dst": "emojis.png",
+		"x": 960, "y": 1665, "w": 64, "h": 64,
+		"u0": 0.9375, "v0": 1, "u1": 0.812988, "v1": 0.844238,
+		"rotate": 0, "hash": 1133463951
+	},
+	"whale2.png": {
+		"src": "whale2.png", "dst": "emojis.png",
+		"x": 1024, "y": 1664, "w": 64, "h": 64,
+		"u0": 1, "v0": 1.0625, "u1": 0.8125, "v1": 0.84375,
+		"rotate": 0, "hash": 937416601
+	},
+	"wheelchair.png": {
+		"src": "wheelchair.png", "dst": "emojis.png",
+		"x": 1088, "y": 1664, "w": 64, "h": 64,
+		"u0": 1.0625, "v0": 1.125, "u1": 0.8125, "v1": 0.84375,
+		"rotate": 0, "hash": 161119860
+	},
+	"white_check_mark.png": {
+		"src": "white_check_mark.png", "dst": "emojis.png",
+		"x": 1152, "y": 1664, "w": 64, "h": 64,
+		"u0": 1.125, "v0": 1.1875, "u1": 0.8125, "v1": 0.84375,
+		"rotate": 0, "hash": 2014519470
+	},
+	"white_circle.png": {
+		"src": "white_circle.png", "dst": "emojis.png",
+		"x": 1216, "y": 1664, "w": 64, "h": 64,
+		"u0": 1.1875, "v0": 1.25, "u1": 0.8125, "v1": 0.84375,
+		"rotate": 0, "hash": 1208215810
+	},
+	"white_flower.png": {
+		"src": "white_flower.png", "dst": "emojis.png",
+		"x": 1280, "y": 1664, "w": 64, "h": 64,
+		"u0": 1.25, "v0": 1.3125, "u1": 0.8125, "v1": 0.84375,
+		"rotate": 0, "hash": 2217162073
+	},
+	"white_square.png": {
+		"src": "white_square.png", "dst": "emojis.png",
+		"x": 1344, "y": 1664, "w": 64, "h": 64,
+		"u0": 1.3125, "v0": 1.375, "u1": 0.8125, "v1": 0.84375,
+		"rotate": 0, "hash": 633548241
+	},
+	"white_square_button.png": {
+		"src": "white_square_button.png", "dst": "emojis.png",
+		"x": 1408, "y": 1664, "w": 64, "h": 64,
+		"u0": 1.375, "v0": 1.4375, "u1": 0.8125, "v1": 0.84375,
+		"rotate": 0, "hash": 4183410000
+	},
+	"wind_chime.png": {
+		"src": "wind_chime.png", "dst": "emojis.png",
+		"x": 1472, "y": 1664, "w": 64, "h": 64,
+		"u0": 1.4375, "v0": 1.5, "u1": 0.8125, "v1": 0.84375,
+		"rotate": 0, "hash": 694010297
+	},
+	"wine_glass.png": {
+		"src": "wine_glass.png", "dst": "emojis.png",
+		"x": 1536, "y": 1664, "w": 64, "h": 64,
+		"u0": 1.5, "v0": 1.5625, "u1": 0.8125, "v1": 0.84375,
+		"rotate": 0, "hash": 1481665686
+	},
+	"wink.png": {
+		"src": "wink.png", "dst": "emojis.png",
+		"x": 1600, "y": 1664, "w": 64, "h": 64,
+		"u0": 1.5625, "v0": 1.625, "u1": 0.8125, "v1": 0.84375,
+		"rotate": 0, "hash": 1416141775
+	},
+	"wink2.png": {
+		"src": "wink2.png", "dst": "emojis.png",
+		"x": 1664, "y": 1664, "w": 64, "h": 64,
+		"u0": 1.625, "v0": 1.6875, "u1": 0.8125, "v1": 0.84375,
+		"rotate": 0, "hash": 2909362521
+	},
+	"wolf.png": {
+		"src": "wolf.png", "dst": "emojis.png",
+		"x": 1728, "y": 1664, "w": 64, "h": 64,
+		"u0": 1.6875, "v0": 1.75, "u1": 0.8125, "v1": 0.84375,
+		"rotate": 0, "hash": 520035196
+	},
+	"woman.png": {
+		"src": "woman.png", "dst": "emojis.png",
+		"x": 1792, "y": 1664, "w": 64, "h": 64,
+		"u0": 1.75, "v0": 1.8125, "u1": 0.8125, "v1": 0.84375,
+		"rotate": 0, "hash": 3657746256
+	},
+	"womans_clothes.png": {
+		"src": "womans_clothes.png", "dst": "emojis.png",
+		"x": 1856, "y": 1664, "w": 64, "h": 64,
+		"u0": 1.8125, "v0": 1.875, "u1": 0.8125, "v1": 0.84375,
+		"rotate": 0, "hash": 2569469360
+	},
+	"womans_hat.png": {
+		"src": "womans_hat.png", "dst": "emojis.png",
+		"x": 1920, "y": 1664, "w": 64, "h": 64,
+		"u0": 1.875, "v0": 1.9375, "u1": 0.8125, "v1": 0.84375,
+		"rotate": 0, "hash": 3276945621
+	},
+	"womens.png": {
+		"src": "womens.png", "dst": "emojis.png",
+		"x": 1984, "y": 1664, "w": 64, "h": 64,
+		"u0": 1.9375, "v0": 2, "u1": 0.8125, "v1": 0.84375,
+		"rotate": 0, "hash": 833764799
+	},
+	"worried.png": {
+		"src": "worried.png", "dst": "emojis.png",
+		"x": 0, "y": 1729, "w": 64, "h": 64,
+		"u0": 0, "v0": 0.0625, "u1": 0.844238, "v1": 0.875488,
+		"rotate": 0, "hash": 2976716990
+	},
+	"wrench.png": {
+		"src": "wrench.png", "dst": "emojis.png",
+		"x": 64, "y": 1729, "w": 64, "h": 64,
+		"u0": 0.0625, "v0": 0.125, "u1": 0.844238, "v1": 0.875488,
+		"rotate": 0, "hash": 3199927297
+	},
+	"x.png": {
+		"src": "x.png", "dst": "emojis.png",
+		"x": 128, "y": 1729, "w": 64, "h": 64,
+		"u0": 0.125, "v0": 0.1875, "u1": 0.844238, "v1": 0.875488,
+		"rotate": 0, "hash": 3105303246
+	},
+	"yellow_heart.png": {
+		"src": "yellow_heart.png", "dst": "emojis.png",
+		"x": 192, "y": 1729, "w": 64, "h": 64,
+		"u0": 0.1875, "v0": 0.25, "u1": 0.844238, "v1": 0.875488,
+		"rotate": 0, "hash": 656305279
+	},
+	"yen.png": {
+		"src": "yen.png", "dst": "emojis.png",
+		"x": 256, "y": 1729, "w": 64, "h": 64,
+		"u0": 0.25, "v0": 0.3125, "u1": 0.844238, "v1": 0.875488,
+		"rotate": 0, "hash": 1498458366
+	},
+	"yum.png": {
+		"src": "yum.png", "dst": "emojis.png",
+		"x": 320, "y": 1729, "w": 64, "h": 64,
+		"u0": 0.3125, "v0": 0.375, "u1": 0.844238, "v1": 0.875488,
+		"rotate": 0, "hash": 1762249659
+	},
+	"zap.png": {
+		"src": "zap.png", "dst": "emojis.png",
+		"x": 384, "y": 1729, "w": 64, "h": 64,
+		"u0": 0.375, "v0": 0.4375, "u1": 0.844238, "v1": 0.875488,
+		"rotate": 0, "hash": 1110816105
+	},
+	"zero.png": {
+		"src": "zero.png", "dst": "emojis.png",
+		"x": 448, "y": 1729, "w": 64, "h": 64,
+		"u0": 0.4375, "v0": 0.5, "u1": 0.844238, "v1": 0.875488,
+		"rotate": 0, "hash": 3569438562
+	},
+	"zzz.png": {
+		"src": "zzz.png", "dst": "emojis.png",
+		"x": 512, "y": 1729, "w": 64, "h": 64,
+		"u0": 0.5, "v0": 0.5625, "u1": 0.844238, "v1": 0.875488,
+		"rotate": 0, "hash": 4131442040
+	}
+}
+
