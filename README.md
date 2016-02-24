@@ -18,5 +18,6 @@ attila emojione.png emojione\assets\png\*.png --enable-width 2048 --enable-pot >
 - https://github.com/Ranks/emojione
 
 ## preview
-![image](emojis.png)
+![image](apple.png)
+![image](emojione.png)
 
